@@ -1,0 +1,29 @@
+[
+ {
+  "label": "그림 0-1",
+  "title": "식물 한 포기에서 약 한 알까지: 여섯 번의 전환점",
+  "color": "figures/ch00/그림0-1.png",
+  "bw": "figures/ch00/그림0-1-bw.png",
+  "script": "figures/ch00/make-figures.py",
+  "data": "figures/ch00/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 0-2",
+  "title": "약초 관련 논문의 5년 단위 출판 수(1995~2026)",
+  "color": "figures/ch00/그림0-2.png",
+  "bw": "figures/ch00/그림0-2-bw.png",
+  "script": "figures/ch00/make-figures.py",
+  "data": "figures/ch00/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 0-3",
+  "title": "지역별 약초 관련 논문 수",
+  "color": "figures/ch00/그림0-3.png",
+  "bw": "figures/ch00/그림0-3-bw.png",
+  "script": "figures/ch00/make-figures.py",
+  "data": "figures/ch00/data/",
+  "exists": true
+ }
+]
