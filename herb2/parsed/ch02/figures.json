@@ -1,0 +1,29 @@
+[
+ {
+  "label": "그림 2-1",
+  "title": "식물의 이차 대사: 당에서 약 성분까지",
+  "color": "figures/ch02/그림2-1.png",
+  "bw": "figures/ch02/그림2-1-bw.png",
+  "script": "figures/ch02/make-figures.py",
+  "data": "figures/ch02/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 2-2",
+  "title": "이 책의 논문 자료에서 성분 계열이 언급된 논문 수",
+  "color": "figures/ch02/그림2-2.png",
+  "bw": "figures/ch02/그림2-2-bw.png",
+  "script": "figures/ch02/make-figures.py",
+  "data": "figures/ch02/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 2-3",
+  "title": "약용식물의 성분 함량과 조성을 바꾸는 요인",
+  "color": "figures/ch02/그림2-3.png",
+  "bw": "figures/ch02/그림2-3-bw.png",
+  "script": "figures/ch02/make-figures.py",
+  "data": "figures/ch02/data/",
+  "exists": true
+ }
+]
