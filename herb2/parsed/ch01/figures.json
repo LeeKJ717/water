@@ -1,0 +1,29 @@
+[
+ {
+  "label": "그림 1-1",
+  "title": "약초 사용을 말해 주는 증거의 시간 사다리",
+  "color": "figures/ch01/그림1-1.png",
+  "bw": "figures/ch01/그림1-1-bw.png",
+  "script": "figures/ch01/make-figures.py",
+  "data": "figures/ch01/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 1-2",
+  "title": "치석에서 식물을 읽는 세 갈래 길",
+  "color": "figures/ch01/그림1-2.png",
+  "bw": "figures/ch01/그림1-2-bw.png",
+  "script": "figures/ch01/make-figures.py",
+  "data": "figures/ch01/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 1-3",
+  "title": "고대 문헌이 담은 식물·약재의 규모",
+  "color": "figures/ch01/그림1-3.png",
+  "bw": "figures/ch01/그림1-3-bw.png",
+  "script": "figures/ch01/make-figures.py",
+  "data": "figures/ch01/data/",
+  "exists": true
+ }
+]

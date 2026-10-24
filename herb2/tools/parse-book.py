@@ -6,7 +6,9 @@
 import re, json, csv, sqlite3, pathlib, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CH = sorted((ROOT / "chapters").glob("ch[0-9]*.md"))
+BOOK = json.load(open(ROOT / "book.json", encoding="utf-8"))
+CH = [ROOT / "chapters" / f"{k}.md" for k in BOOK["order"] if k.startswith("ch") and (ROOT / "chapters" / f"{k}.md").exists()]
+PART_OF = {c: (f"제{v['no']}부 {v['name']}") for v in BOOK["parts"].values() for c in v["chapters"]}
 db = sqlite3.connect(ROOT / "herb2.db")
 db.executescript("""
 create table if not exists chapters(no integer primary key, part text, title text, scope_region text, pages_target int, md_path text, body text, status text default '목차미정');
@@ -69,7 +71,7 @@ for f in CH:
     json.dump(figs, open(out / "figures.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     json.dump(tabs, open(out / "tables.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # DB
-    db.execute("insert or replace into chapters(no,title,md_path,body,status) values(?,?,?,?,?)", (no, title, f"chapters/{f.name}", text, "초고"))
+    db.execute("insert or replace into chapters(no,part,title,pages_target,md_path,body,status) values(?,?,?,?,?,?,?)", (no, PART_OF.get(stem, "서장"), title, BOOK["target_pages"].get(stem), f"chapters/{f.name}", text, "초고"))
     for r in refs:
         db.execute("insert into refs(chapter_no,apa7,doi) values(?,?,?)", (no, r["apa7"], r["doi"]))
     for g in figs:

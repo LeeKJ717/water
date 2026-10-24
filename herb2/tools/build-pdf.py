@@ -28,7 +28,7 @@ ul { margin:0 0 3mm 5mm; padding:0 }
 nav.toc { page-break-after:always } nav.toc h1 { page-break-before:avoid }
 nav.toc a { color:#111; text-decoration:none }
 nav.toc li { list-style:none; margin:0 0 2mm } nav.toc ul { margin:0; padding:0 }
-nav.toc li.l1 { font:700 11.5pt 'Noto Sans CJK KR'; margin-top:3mm }
+nav.toc li.l0 { font:900 12.5pt 'Noto Sans CJK KR'; margin-top:5mm } nav.toc li.l1 { font:700 11.5pt 'Noto Sans CJK KR'; margin-top:3mm }
 nav.toc li.l2 { margin-left:6mm; font-size:10pt }
 nav.toc a::after { content:leader('.') target-counter(attr(href), page) }
 figure.fig, div.tblwrap { page-break-inside:avoid; margin:4mm 0 5mm; text-align:center }
@@ -40,6 +40,9 @@ th, td { border:.5pt solid #777; padding:1.2mm 1.8mm; vertical-align:top } th { 
 .opener { page-break-after:always; text-align:center }
 .opener img { width:142mm; margin-top:12mm } .mini-toc { font:9.5pt 'Noto Sans CJK KR'; margin:8mm 15mm; text-align:left }
 .pagebreak { page-break-after:always }
+.partpage { page-break-before:always; page-break-after:always; text-align:center; padding-top:70mm }
+.partpage h1.parth { font-size:26pt; page-break-before:avoid; margin-bottom:6mm }
+.partsub { font:13pt 'Noto Sans CJK KR'; color:#444 } .partpage ul { list-style:none; margin-top:14mm; font:11pt 'Noto Sans CJK KR' } .partpage li { margin-bottom:3mm }
 div.refs { font-size:9.5pt; line-height:1.45 } div.refs li { margin-bottom:1.6mm; padding-left:6mm; text-indent:-6mm; list-style:none; text-align:left; word-break:break-all }
 div.refs h2 { font-size:12pt }
 """
@@ -144,9 +147,23 @@ def toc(html):
 
 
 def build(bw):
-    chap_files = sorted((ROOT / "chapters").glob("ch[0-9]*.md"))
+    import json
+    book = json.load(open(ROOT / "book.json", encoding="utf-8"))
+    titles = {}
+    for f in (ROOT / "chapters").glob("ch[0-9]*.md"):
+        m = re.search(r"^# (.+)$", f.read_text(encoding="utf-8"), re.M)
+        titles[f.stem] = m.group(1) if m else f.stem
+    chap_files = []
     parts = []
-    for f in chap_files:
+    for key in book["order"]:
+        if key.startswith("part"):
+            pt = book["parts"][key]
+            lis = "".join(f"<li>{titles.get(c) or book.get("titles", {}).get(c, c)}</li>" for c in pt["chapters"])
+            parts.append(f'<div class="partpage"><h1 class="parth">제{pt["no"]}부 {pt["name"]}</h1><p class="partsub">{pt["sub"]}</p><ul>{lis}</ul></div>')
+            continue
+        f = ROOT / "chapters" / f"{key}.md"
+        if not f.exists():
+            continue
         hh = post(md_to_html(f.read_text(encoding="utf-8")), bw)
         parts.append(optimize_chapter(hh, bw) if OPT else hh)
     body = "\n".join(parts)
@@ -155,7 +172,9 @@ def build(bw):
     def rep(m):
         n[0] += 1; i = f"s{n[0]}"; lvl = m.group(1)
         txt = re.sub('<.*?>', '', m.group(3))
-        if lvl == "1" or txt in ("참고문헌",):
+        if lvl == "1" and 'class="parth"' in m.group(2):
+            entries.append(("0", i, txt))
+        elif lvl == "1" or txt in ("참고문헌",):
             entries.append((lvl, i, txt))
         elif lvl == "2":
             entries.append((lvl, i, txt))
