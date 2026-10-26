@@ -1,0 +1,74 @@
+[
+ {
+  "label": "그림 11-1",
+  "title": "증거의 사다리(개념도)",
+  "color": "figures/ch11/그림11-1.png",
+  "bw": "figures/ch11/그림11-1-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-2",
+  "title": "말뭉치의 임상 논문과 방법론 용어",
+  "color": "figures/ch11/그림11-2.png",
+  "bw": "figures/ch11/그림11-2-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-3",
+  "title": "톱야자 메타분석의 방법론과 이상반응",
+  "color": "figures/ch11/그림11-3.png",
+  "bw": "figures/ch11/그림11-3-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-4",
+  "title": "약초 시험을 위한 CONSORT 확장 지침",
+  "color": "figures/ch11/그림11-4.png",
+  "bw": "figures/ch11/그림11-4-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-5",
+  "title": "중국어 학술지 무작위 시험의 진위 조사",
+  "color": "figures/ch11/그림11-5.png",
+  "bw": "figures/ch11/그림11-5-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-6",
+  "title": "중의 복합 처방 위약 대조 시험의 보고 비교",
+  "color": "figures/ch11/그림11-6.png",
+  "bw": "figures/ch11/그림11-6-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-7",
+  "title": "양성 결과를 보인 두 시험",
+  "color": "figures/ch11/그림11-7.png",
+  "bw": "figures/ch11/그림11-7-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 11-8",
+  "title": "약초별 판정(Ernst, 2002)",
+  "color": "figures/ch11/그림11-8.png",
+  "bw": "figures/ch11/그림11-8-bw.png",
+  "script": "figures/ch11/make-figures.py",
+  "data": "figures/ch11/data/",
+  "exists": true
+ }
+]

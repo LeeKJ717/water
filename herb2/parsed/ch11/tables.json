@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 11-1",
+  "title": "약초 시험의 보고 지침과 보고 수준 점검 연구",
+  "csv": "tables/ch11-표11-1.csv",
+  "cols": 3,
+  "rows": 4,
+  "note": ""
+ },
+ {
+  "label": "표 11-2",
+  "title": "이 장에서 본 개별 시험의 요약",
+  "csv": "tables/ch11-표11-2.csv",
+  "cols": 5,
+  "rows": 5,
+  "note": ""
+ },
+ {
+  "label": "표 11-3",
+  "title": "약초 임상 문헌을 읽을 때 던질 질문(이 장의 종합)",
+  "csv": "tables/ch11-표11-3.csv",
+  "cols": 2,
+  "rows": 6,
+  "note": ""
+ }
+]
