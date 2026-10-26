@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 5-1",
+  "title": "페르시아 고전을 현대 연구와 대조한 세 연구",
+  "csv": "tables/ch05-표5-1.csv",
+  "cols": 4,
+  "rows": 3,
+  "note": ""
+ },
+ {
+  "label": "표 5-2",
+  "title": "이 장의 네 임상시험 설계 비교",
+  "csv": "tables/ch05-표5-2.csv",
+  "cols": 5,
+  "rows": 4,
+  "note": ""
+ },
+ {
+  "label": "표 5-3",
+  "title": "이 장의 연구들이 답할 수 있는 것",
+  "csv": "tables/ch05-표5-3.csv",
+  "cols": 4,
+  "rows": 4,
+  "note": ""
+ }
+]

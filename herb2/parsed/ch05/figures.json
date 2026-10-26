@@ -1,0 +1,56 @@
+[
+ {
+  "label": "그림 5-1",
+  "title": "중동은 약초 지식이 지나간 다리였다(개념도)",
+  "color": "figures/ch05/그림5-1.png",
+  "bw": "figures/ch05/그림5-1-bw.png",
+  "script": "figures/ch05/make-figures.py",
+  "data": "figures/ch05/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 5-2",
+  "title": "이븐 시나의 책 속 약초를 현대 연구와 대조한 결과",
+  "color": "figures/ch05/그림5-2.png",
+  "bw": "figures/ch05/그림5-2-bw.png",
+  "script": "figures/ch05/make-figures.py",
+  "data": "figures/ch05/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 5-3",
+  "title": "사프란 이중맹검 시험의 설계와 결과",
+  "color": "figures/ch05/그림5-3.png",
+  "bw": "figures/ch05/그림5-3-bw.png",
+  "script": "figures/ch05/make-figures.py",
+  "data": "figures/ch05/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 5-4",
+  "title": "이 장의 세 임상시험의 규모와 기간",
+  "color": "figures/ch05/그림5-4.png",
+  "bw": "figures/ch05/그림5-4-bw.png",
+  "script": "figures/ch05/make-figures.py",
+  "data": "figures/ch05/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 5-5",
+  "title": "중동 약초 논문의 연도별 편수(2000~2022년)",
+  "color": "figures/ch05/그림5-5.png",
+  "bw": "figures/ch05/그림5-5-bw.png",
+  "script": "figures/ch05/make-figures.py",
+  "data": "figures/ch05/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 5-6",
+  "title": "중동 약초 논문(659편)에서 주제어가 언급된 논문 수",
+  "color": "figures/ch05/그림5-6.png",
+  "bw": "figures/ch05/그림5-6-bw.png",
+  "script": "figures/ch05/make-figures.py",
+  "data": "figures/ch05/data/",
+  "exists": true
+ }
+]
