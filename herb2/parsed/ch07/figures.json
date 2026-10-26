@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 7-1",
+  "title": "환자는 전통 치료사와 병원 사이를 오간다(개념도)",
+  "color": "figures/ch07/그림7-1.png",
+  "bw": "figures/ch07/그림7-1-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 7-2",
+  "title": "두 민족식물학 연구가 기록한 것",
+  "color": "figures/ch07/그림7-2.png",
+  "bw": "figures/ch07/그림7-2-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 7-3",
+  "title": "말라리아 연구의 두 층위",
+  "color": "figures/ch07/그림7-3.png",
+  "bw": "figures/ch07/그림7-3-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 7-4",
+  "title": "HIV 치료에서 전통 의학이 놓인 자리",
+  "color": "figures/ch07/그림7-4.png",
+  "bw": "figures/ch07/그림7-4-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 7-5",
+  "title": "사더랜디아 안전성 시험 두 편",
+  "color": "figures/ch07/그림7-5.png",
+  "bw": "figures/ch07/그림7-5-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 7-6",
+  "title": "탄자니아 킬리만자로 지역 성인의 전통 의약 이용",
+  "color": "figures/ch07/그림7-6.png",
+  "bw": "figures/ch07/그림7-6-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 7-7",
+  "title": "아프리카 약초 논문에서 많이 언급된 주제어",
+  "color": "figures/ch07/그림7-7.png",
+  "bw": "figures/ch07/그림7-7-bw.png",
+  "script": "figures/ch07/make-figures.py",
+  "data": "figures/ch07/data/",
+  "exists": true
+ }
+]
