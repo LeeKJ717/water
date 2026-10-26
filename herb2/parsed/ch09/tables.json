@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 9-1",
+  "title": "카바 안전성 근거의 단계",
+  "csv": "tables/ch09-표9-1.csv",
+  "cols": 5,
+  "rows": 7,
+  "note": ""
+ },
+ {
+  "label": "표 9-2",
+  "title": "호주·태평양 약초 연구에서 이 장이 확인한 사항",
+  "csv": "tables/ch09-표9-2.csv",
+  "cols": 4,
+  "rows": 7,
+  "note": ""
+ },
+ {
+  "label": "표 9-3",
+  "title": "이 장의 연구들이 답할 수 있는 것과 답할 수 없는 것",
+  "csv": "tables/ch09-표9-3.csv",
+  "cols": 3,
+  "rows": 5,
+  "note": ""
+ }
+]

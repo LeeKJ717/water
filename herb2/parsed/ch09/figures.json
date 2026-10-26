@@ -1,0 +1,56 @@
+[
+ {
+  "label": "그림 9-1",
+  "title": "카바(Piper methysticum)의 여정",
+  "color": "figures/ch09/그림9-1.png",
+  "bw": "figures/ch09/그림9-1-bw.png",
+  "script": "figures/ch09/make-figures.py",
+  "data": "figures/ch09/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 9-2",
+  "title": "카바 안전성 근거가 쌓인 순서",
+  "color": "figures/ch09/그림9-2.png",
+  "bw": "figures/ch09/그림9-2-bw.png",
+  "script": "figures/ch09/make-figures.py",
+  "data": "figures/ch09/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 9-3",
+  "title": "카바와 아세트아미노펜의 병용 실험 설계와 결과",
+  "color": "figures/ch09/그림9-3.png",
+  "bw": "figures/ch09/그림9-3-bw.png",
+  "script": "figures/ch09/make-figures.py",
+  "data": "figures/ch09/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 9-4",
+  "title": "사람에서 확인한 카바와 골든실의 약물 대사 효소 영향",
+  "color": "figures/ch09/그림9-4.png",
+  "bw": "figures/ch09/그림9-4-bw.png",
+  "script": "figures/ch09/make-figures.py",
+  "data": "figures/ch09/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 9-5",
+  "title": "호주 성인의 보완 의약품과 약초 이용",
+  "color": "figures/ch09/그림9-5.png",
+  "bw": "figures/ch09/그림9-5-bw.png",
+  "script": "figures/ch09/make-figures.py",
+  "data": "figures/ch09/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 9-6",
+  "title": "오세아니아 논문 말뭉치의 구성",
+  "color": "figures/ch09/그림9-6.png",
+  "bw": "figures/ch09/그림9-6-bw.png",
+  "script": "figures/ch09/make-figures.py",
+  "data": "figures/ch09/data/",
+  "exists": true
+ }
+]
