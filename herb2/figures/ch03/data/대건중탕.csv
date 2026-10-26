@@ -1,0 +1,4 @@
+outcome,users,nonusers,p
+LTD success %,84.7,78.5,0.224
+LTD days,8,10,0.012
+hospital charges USD,23086,26950,0.018

@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 3-1",
+  "title": "동아시아 약초 문헌과 제도의 연표",
+  "color": "figures/ch03/그림3-1.png",
+  "bw": "figures/ch03/그림3-1-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 3-2",
+  "title": "본초서별 수록 약물 수",
+  "color": "figures/ch03/그림3-2.png",
+  "bw": "figures/ch03/그림3-2-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 3-3",
+  "title": "개똥쑥에서 약이 되기까지의 단계",
+  "color": "figures/ch03/그림3-3.png",
+  "bw": "figures/ch03/그림3-3-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 3-4",
+  "title": "일본의 캄포 사용과 교육 현황",
+  "color": "figures/ch03/그림3-4.png",
+  "bw": "figures/ch03/그림3-4-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 3-5",
+  "title": "갈근금련탕 이중맹검 임상시험의 설계와 결과",
+  "color": "figures/ch03/그림3-5.png",
+  "bw": "figures/ch03/그림3-5-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 3-6",
+  "title": "대건중탕 사용군과 미사용군의 비교(성향 점수로 짝지은 288명)",
+  "color": "figures/ch03/그림3-6.png",
+  "bw": "figures/ch03/그림3-6-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 3-7",
+  "title": "동아시아 약초 논문(1,804편)에서 주제어가 언급된 논문 수",
+  "color": "figures/ch03/그림3-7.png",
+  "bw": "figures/ch03/그림3-7-bw.png",
+  "script": "figures/ch03/make-figures.py",
+  "data": "figures/ch03/data/",
+  "exists": true
+ }
+]

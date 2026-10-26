@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 3-1",
+  "title": "동아시아 대표 약물서의 규모",
+  "csv": "tables/ch03-표3-1.csv",
+  "cols": 4,
+  "rows": 4,
+  "note": ""
+ },
+ {
+  "label": "표 3-2",
+  "title": "일본 캄포의 사용·교육 현황(두 조사)",
+  "csv": "tables/ch03-표3-2.csv",
+  "cols": 3,
+  "rows": 7,
+  "note": ""
+ },
+ {
+  "label": "표 3-3",
+  "title": "이 장의 세 연구가 답할 수 있는 것",
+  "csv": "tables/ch03-표3-3.csv",
+  "cols": 5,
+  "rows": 3,
+  "note": ""
+ }
+]
