@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 6-1",
+  "title": "유럽 약초학의 주요 이정표",
+  "color": "figures/ch06/그림6-1.png",
+  "bw": "figures/ch06/그림6-1-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 6-2",
+  "title": "버드나무 껍질에서 아스피린까지의 길",
+  "color": "figures/ch06/그림6-2.png",
+  "bw": "figures/ch06/그림6-2-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 6-3",
+  "title": "세인트존스워트가 다른 약의 농도를 낮추는 과정과 두 실험의 결과",
+  "color": "figures/ch06/그림6-3.png",
+  "bw": "figures/ch06/그림6-3-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 6-4",
+  "title": "퍼믹손과 피나스테리드의 6개월 효과 비교",
+  "color": "figures/ch06/그림6-4.png",
+  "bw": "figures/ch06/그림6-4-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 6-5",
+  "title": "어린이 에키네시아 시험의 결과",
+  "color": "figures/ch06/그림6-5.png",
+  "bw": "figures/ch06/그림6-5-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 6-6",
+  "title": "은행나무 치매 코크란 고찰의 근거 규모",
+  "color": "figures/ch06/그림6-6.png",
+  "bw": "figures/ch06/그림6-6-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 6-7",
+  "title": "유럽 식물요법 논문에서 많이 언급된 주제어",
+  "color": "figures/ch06/그림6-7.png",
+  "bw": "figures/ch06/그림6-7-bw.png",
+  "script": "figures/ch06/make-figures.py",
+  "data": "figures/ch06/data/",
+  "exists": true
+ }
+]

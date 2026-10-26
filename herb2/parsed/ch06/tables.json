@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 6-1",
+  "title": "유럽 약초학에서 약학으로 가는 연표(이 장에서 확인한 사건)",
+  "csv": "tables/ch06-표6-1.csv",
+  "cols": 3,
+  "rows": 8,
+  "note": ""
+ },
+ {
+  "label": "표 6-2",
+  "title": "이 장의 임상 연구 설계 비교",
+  "csv": "tables/ch06-표6-2.csv",
+  "cols": 5,
+  "rows": 7,
+  "note": ""
+ },
+ {
+  "label": "표 6-3",
+  "title": "이 장의 연구들이 답할 수 있는 것과 답할 수 없는 것",
+  "csv": "tables/ch06-표6-3.csv",
+  "cols": 3,
+  "rows": 6,
+  "note": ""
+ }
+]
