@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 10-1",
+  "title": "약리학의 두 관점(개념도)",
+  "color": "figures/ch10/그림10-1.png",
+  "bw": "figures/ch10/그림10-1-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 10-2",
+  "title": "TCMSP 데이터베이스의 규모",
+  "color": "figures/ch10/그림10-2.png",
+  "bw": "figures/ch10/그림10-2-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 10-3",
+  "title": "천연물을 화학 라이브러리로 읽는 연구의 흐름",
+  "color": "figures/ch10/그림10-3.png",
+  "bw": "figures/ch10/그림10-3-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 10-4",
+  "title": "시너지의 세 층위와 증거의 수준",
+  "color": "figures/ch10/그림10-4.png",
+  "bw": "figures/ch10/그림10-4-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 10-5",
+  "title": "커큐민 연구의 이정표",
+  "color": "figures/ch10/그림10-5.png",
+  "bw": "figures/ch10/그림10-5-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 10-6",
+  "title": "알츠하이머 생쥐에서 커큐민 두 용량의 효과",
+  "color": "figures/ch10/그림10-6.png",
+  "bw": "figures/ch10/그림10-6-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 10-7",
+  "title": "말뭉치의 네트워크 약리학 논문 수(2012~2025년)",
+  "color": "figures/ch10/그림10-7.png",
+  "bw": "figures/ch10/그림10-7-bw.png",
+  "script": "figures/ch10/make-figures.py",
+  "data": "figures/ch10/data/",
+  "exists": true
+ }
+]
