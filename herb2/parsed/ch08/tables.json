@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 8-1",
+  "title": "부스만 연구진의 북부 페루·콜롬비아 연구 정리",
+  "csv": "tables/ch08-표8-1.csv",
+  "cols": 4,
+  "rows": 5,
+  "note": ""
+ },
+ {
+  "label": "표 8-2",
+  "title": "이 장의 연구들이 약초 지식에 던진 질문",
+  "csv": "tables/ch08-표8-2.csv",
+  "cols": 4,
+  "rows": 6,
+  "note": ""
+ },
+ {
+  "label": "표 8-3",
+  "title": "이 장의 연구들이 답할 수 있는 것과 답할 수 없는 것",
+  "csv": "tables/ch08-표8-3.csv",
+  "cols": 3,
+  "rows": 6,
+  "note": ""
+ }
+]

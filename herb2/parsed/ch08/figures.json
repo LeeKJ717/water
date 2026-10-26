@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 8-1",
+  "title": "이 장이 다루는 아메리카의 기록과 연구",
+  "color": "figures/ch08/그림8-1.png",
+  "bw": "figures/ch08/그림8-1-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 8-2",
+  "title": "북부 페루 약용 식물 510종의 용도별 종 수",
+  "color": "figures/ch08/그림8-2.png",
+  "bw": "figures/ch08/그림8-2-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 8-3",
+  "title": "시장의 다양성과 혼합 처방의 규모",
+  "color": "figures/ch08/그림8-3.png",
+  "bw": "figures/ch08/그림8-3-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 8-4",
+  "title": "북부 페루 약용 식물의 항균 시험 결과",
+  "color": "figures/ch08/그림8-4.png",
+  "bw": "figures/ch08/그림8-4-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 8-5",
+  "title": "멕시코 원주민 약초에서 활성 성분 후보까지",
+  "color": "figures/ch08/그림8-5.png",
+  "bw": "figures/ch08/그림8-5-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 8-6",
+  "title": "남아메리카 항암 후보 탐색의 단계",
+  "color": "figures/ch08/그림8-6.png",
+  "bw": "figures/ch08/그림8-6-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 8-7",
+  "title": "아메리카로 분류된 논문의 실제 구성",
+  "color": "figures/ch08/그림8-7.png",
+  "bw": "figures/ch08/그림8-7-bw.png",
+  "script": "figures/ch08/make-figures.py",
+  "data": "figures/ch08/data/",
+  "exists": true
+ }
+]
