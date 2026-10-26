@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 4-1",
+  "title": "남아시아의 세 약초 전통",
+  "csv": "tables/ch04-표4-1.csv",
+  "cols": 3,
+  "rows": 3,
+  "note": ""
+ },
+ {
+  "label": "표 4-2",
+  "title": "금속 검출 조사의 핵심 수치",
+  "csv": "tables/ch04-표4-2.csv",
+  "cols": 4,
+  "rows": 4,
+  "note": ""
+ },
+ {
+  "label": "표 4-3",
+  "title": "이 장의 세 연구가 답할 수 있는 것",
+  "csv": "tables/ch04-표4-3.csv",
+  "cols": 5,
+  "rows": 3,
+  "note": ""
+ }
+]

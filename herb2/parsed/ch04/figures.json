@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 4-1",
+  "title": "남아시아 약초 전통과 연구의 주요 사건",
+  "color": "figures/ch04/그림4-1.png",
+  "bw": "figures/ch04/그림4-1-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 4-2",
+  "title": "남아시아 약초 논문의 연도별 편수(2000~2022년)",
+  "color": "figures/ch04/그림4-2.png",
+  "bw": "figures/ch04/그림4-2-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 4-3",
+  "title": "아유르베다에서 체질과 처방이 이어지는 구조(개념도)",
+  "color": "figures/ch04/그림4-3.png",
+  "bw": "figures/ch04/그림4-3-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 4-4",
+  "title": "전통 약초가 서양 의학에 들어간 경로(뱀뿌리풀과 레세르핀)",
+  "color": "figures/ch04/그림4-4.png",
+  "bw": "figures/ch04/그림4-4-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 4-5",
+  "title": "인터넷 판매 아유르베다 약에서 금속이 검출된 제품의 비율",
+  "color": "figures/ch04/그림4-5.png",
+  "bw": "figures/ch04/그림4-5-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 4-6",
+  "title": "아슈와간다 무작위 대조 시험의 설계와 근력 증가",
+  "color": "figures/ch04/그림4-6.png",
+  "bw": "figures/ch04/그림4-6-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 4-7",
+  "title": "남아시아 약초 논문(1,226편)에서 주제어가 언급된 논문 수",
+  "color": "figures/ch04/그림4-7.png",
+  "bw": "figures/ch04/그림4-7-bw.png",
+  "script": "figures/ch04/make-figures.py",
+  "data": "figures/ch04/data/",
+  "exists": true
+ }
+]
