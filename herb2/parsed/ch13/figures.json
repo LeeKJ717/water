@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 13-1",
+  "title": "약초 제품의 품질 사슬(개념도)",
+  "color": "figures/ch13/그림13-1.png",
+  "bw": "figures/ch13/그림13-1-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 13-2",
+  "title": "말뭉치의 품질 관련 용어 언급 논문 수",
+  "color": "figures/ch13/그림13-2.png",
+  "bw": "figures/ch13/그림13-2-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 13-3",
+  "title": "의약품과 식이보충제에서 입증 책임의 방향(개념도)",
+  "color": "figures/ch13/그림13-3.png",
+  "bw": "figures/ch13/그림13-3-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 13-4",
+  "title": "구소련 국가 약전 제11판의 식물 모노그래프 83종",
+  "color": "figures/ch13/그림13-4.png",
+  "bw": "figures/ch13/그림13-4-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 13-5",
+  "title": "품질 확인 방식의 확장(개념도)",
+  "color": "figures/ch13/그림13-5.png",
+  "bw": "figures/ch13/그림13-5-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 13-6",
+  "title": "약재 1,773개의 중금속 기준 초과율",
+  "color": "figures/ch13/그림13-6.png",
+  "bw": "figures/ch13/그림13-6-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 13-7",
+  "title": "일본 약전 생약의 DNA 바코드 시스템",
+  "color": "figures/ch13/그림13-7.png",
+  "bw": "figures/ch13/그림13-7-bw.png",
+  "script": "figures/ch13/make-figures.py",
+  "data": "figures/ch13/data/",
+  "exists": true
+ }
+]

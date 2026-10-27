@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 13-1",
+  "title": "약초 제품 규제의 여러 모델",
+  "csv": "tables/ch13-표13-1.csv",
+  "cols": 3,
+  "rows": 6,
+  "note": ""
+ },
+ {
+  "label": "표 13-2",
+  "title": "약전과 모노그래프의 사례",
+  "csv": "tables/ch13-표13-2.csv",
+  "cols": 3,
+  "rows": 5,
+  "note": ""
+ },
+ {
+  "label": "표 13-3",
+  "title": "기준 준수를 실측한 연구",
+  "csv": "tables/ch13-표13-3.csv",
+  "cols": 4,
+  "rows": 3,
+  "note": ""
+ }
+]
