@@ -1,0 +1,74 @@
+[
+ {
+  "label": "그림 12-1",
+  "title": "약초 제품이 위험해지는 세 갈래(개념도)",
+  "color": "figures/ch12/그림12-1.png",
+  "bw": "figures/ch12/그림12-1-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-2",
+  "title": "말뭉치의 안전성 관련 용어 언급 논문 수",
+  "color": "figures/ch12/그림12-2.png",
+  "bw": "figures/ch12/그림12-2-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-3",
+  "title": "중국 약초 신증 환자 39명의 예방적 수술 소견",
+  "color": "figures/ch12/그림12-3.png",
+  "bw": "figures/ch12/그림12-3-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-4",
+  "title": "지역별 간세포암에서 아리스톨로크산 돌연변이 서명을 보인 비율",
+  "color": "figures/ch12/그림12-4.png",
+  "bw": "figures/ch12/그림12-4-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-5",
+  "title": "세인트존스워트의 효소·수송체 유도",
+  "color": "figures/ch12/그림12-5.png",
+  "bw": "figures/ch12/그림12-5-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-6",
+  "title": "약초-약물 상호작용 의심 사례 108건의 신뢰도 평가",
+  "color": "figures/ch12/그림12-6.png",
+  "bw": "figures/ch12/그림12-6-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-7",
+  "title": "보스턴 식료품점 아유르베다 제품 70개의 중금속 검출",
+  "color": "figures/ch12/그림12-7.png",
+  "bw": "figures/ch12/그림12-7-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 12-8",
+  "title": "DNA 바코드의 종 수준 식별 성공률",
+  "color": "figures/ch12/그림12-8.png",
+  "bw": "figures/ch12/그림12-8-bw.png",
+  "script": "figures/ch12/make-figures.py",
+  "data": "figures/ch12/data/",
+  "exists": true
+ }
+]

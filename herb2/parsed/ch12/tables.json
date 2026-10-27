@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 12-1",
+  "title": "아리스톨로크산 연구의 흐름",
+  "csv": "tables/ch12-표12-1.csv",
+  "cols": 3,
+  "rows": 4,
+  "note": ""
+ },
+ {
+  "label": "표 12-2",
+  "title": "약초-약물 상호작용 근거의 질",
+  "csv": "tables/ch12-표12-2.csv",
+  "cols": 4,
+  "rows": 5,
+  "note": ""
+ },
+ {
+  "label": "표 12-3",
+  "title": "제품 품질 연구의 요약",
+  "csv": "tables/ch12-표12-3.csv",
+  "cols": 4,
+  "rows": 3,
+  "note": ""
+ }
+]
