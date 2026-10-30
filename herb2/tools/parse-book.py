@@ -7,7 +7,7 @@ import re, json, csv, sqlite3, pathlib, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 BOOK = json.load(open(ROOT / "book.json", encoding="utf-8"))
-CH = [ROOT / "chapters" / f"{k}.md" for k in BOOK["order"] if k.startswith("ch") and (ROOT / "chapters" / f"{k}.md").exists()]
+CH = [ROOT / "chapters" / f"{k}.md" for k in BOOK["order"] if (k.startswith("ch") or k.startswith("ap")) and (ROOT / "chapters" / f"{k}.md").exists()]
 PART_OF = {c: (f"제{v['no']}부 {v['name']}") for v in BOOK["parts"].values() for c in v["chapters"]}
 db = sqlite3.connect(ROOT / "herb2.db")
 db.executescript("""
@@ -28,7 +28,7 @@ def parse_table(lines):
 
 
 for f in CH:
-    stem = f.stem; no = int(re.sub(r"\D", "", stem))
+    stem = f.stem; no = int(re.sub(r"\D", "", stem)) + (100 if stem.startswith("ap") else 0)
     text = f.read_text(encoding="utf-8")
     out = ROOT / "parsed" / stem; out.mkdir(parents=True, exist_ok=True)
     # 장 제목, 절
@@ -55,7 +55,7 @@ for f in CH:
                      "exists": (base / f"{key}.png").exists()})
     # 표
     tabs = []
-    for tm in re.finditer(r"<strong>(표 [0-9\-]+)\.\s*(.*?)</strong></p>\s*\n(.*?)(?=<p class=\"note\"|</div>)", text, re.S):
+    for tm in re.finditer(r"<strong>(표 [A-Z0-9\-]+)\.\s*(.*?)</strong></p>\s*\n(.*?)(?=<p class=\"note\"|</div>)", text, re.S):
         label, ttl, body = tm.group(1), tm.group(2), tm.group(3)
         rows = parse_table(body.splitlines())
         note = re.search(r'<p class="note">(.*?)</p>', text[tm.end():tm.end() + 800], re.S)
@@ -71,7 +71,7 @@ for f in CH:
     json.dump(figs, open(out / "figures.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     json.dump(tabs, open(out / "tables.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # DB
-    db.execute("insert or replace into chapters(no,part,title,pages_target,md_path,body,status) values(?,?,?,?,?,?,?)", (no, PART_OF.get(stem, "서장"), title, BOOK["target_pages"].get(stem), f"chapters/{f.name}", text, "초고"))
+    db.execute("insert or replace into chapters(no,part,title,pages_target,md_path,body,status) values(?,?,?,?,?,?,?)", (no, ("부록" if stem.startswith("ap") else PART_OF.get(stem, "서장")), title, BOOK["target_pages"].get(stem), f"chapters/{f.name}", text, "초고"))
     for r in refs:
         db.execute("insert into refs(chapter_no,apa7,doi) values(?,?,?)", (no, r["apa7"], r["doi"]))
     for g in figs:

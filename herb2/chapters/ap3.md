@@ -1,0 +1,186 @@
+# 부록 C. 참고문헌 색인
+
+각 장 끝의 참고문헌 180편을 첫 저자 이름순으로 정리했다. 오른쪽은 그 문헌이 실린 장이다. 전체 서지 정보는 해당 장의 참고문헌에 있다.
+
+<ul class="idx" markdown="1">
+- Abdullahi (2011) — 7장
+- Akhondzadeh 등 (2004) — 5장
+- Akhondzadeh 등 (2005) — 5장
+- Albuquerque (2006) — 8장
+- Almeida & Grimsley (1996) — 9장
+- Amorim 등 (2007) — 9장
+- André 등 (2016) — 2장
+- Angell & Kassirer (1998) — 13장
+- Arai 등 (2012) — 3장
+- Arlt 등 (2002) — 12장
+- Atanasov 등 (2015) — 서장
+- Azaizeh 등 (2006) — 5장
+- Azaizeh 등 (2008) — 5장
+- Beck (2005) — 1장
+- Benoit-Vical 등 (1996) — 7장
+- Bensoussan 등 (1998) — 11장
+- Bian 등 (2020) — 9장
+- Birks & Grimley Evans (2009) — 6·11장
+- Bork 등 (1997) — 8장
+- Brandão 등 (2006) — 8·13장
+- Brown (2010) — 14장
+- Bussmann & Sharon (2006) — 8장
+- Bussmann 등 (2007a) — 8장
+- Bussmann 등 (2007b) — 8장
+- Bussmann 등 (2008) — 8장
+- Bussmann 등 (2009) — 8장
+- Bussmann 등 (2010) — 8장
+- Bussmann 등 (2011) — 8장
+- Bussmann 등 (2018) — 8장
+- Byard 등 (2017) — 9장
+- Caesar & Cech (2019) — 2·10장
+- Calixto (2000) — 13장
+- Capasso (1998) — 1장
+- Carraro 등 (1996) — 6·11장
+- Chadwick 등 (2013) — 2장
+- Chen 등 (2010) — 12장
+- Chen 등 (2012) — 12장
+- Chen 등 (2016) — 14장
+- Chen 등 (2017) — 13장
+- Cheng 등 (2017) — 11장
+- Cho 등 (2020) — 3장
+- Choi & Chang (2008) — 3장
+- Chuengsamarn 등 (2012) — 11장
+- Corlett (2016) — 14장
+- Cravens 등 (2019) — 14장
+- Danan & Teschke (2015) — 12장
+- Dias 등 (2012) — 서장
+- Dürr 등 (2000) — 12장
+- Ebers (1875) — 1장
+- Edeoga 등 (2005) — 2장
+- Edger 등 (2015) — 2장
+- Efferth & Koch (2010) — 6·10장
+- Ehrlich & Raven (1964) — 2장
+- Ekor (2014) — 서장
+- Elujoba 등 (2005) — 7장
+- Ernst (2002) — 11·12장
+- European Medicines Agency (n.d.) — 6장
+- Fraenkel (1959) — 2장
+- Fugh-Berman & Ernst (2001) — 12·14장
+- Gagnier 등 (2006) — 11장
+- Gertsch (2011) — 14장
+- Gu 등 (2013) — 10장
+- Gurley 등 (2005) — 9장
+- Gurley 등 (2007) — 9장
+- Hamedi 등 (2013) — 5장
+- Han & Ballis (2007) — 9장
+- Hardy 등 (2012) — 1장
+- Hardy 등 (2013) — 1장
+- Harnett 등 (2019) — 9장
+- Heck 등 (2000) — 12장
+- Hegde 등 (2023) — 4장
+- Henderson 등 (2002) — 12장
+- Holbrook 등 (2005) — 12장
+- Hosseini 등 (2014) — 5장
+- Howes 등 (2020) — 14장
+- Hsü (2006) — 3장
+- Huffman (2003) — 1장
+- Isah (2019) — 2장
+- Izzo 등 (2016) — 11·12장
+- Jacobson 등 (2001) — 11장
+- Johne 등 (1999) — 6장
+- Johnson 등 (1985) — 6장
+- Johnson 등 (2007) — 7장
+- Kala (2005) — 14장
+- Karimi 등 (2021) — 5장
+- Katayama 등 (2013) — 3장
+- Kayombo 등 (2007) — 7장
+- Khalili 등 (2017) — 5장
+- Klayman (1985) — 3장
+- Knoess & Wiesner (2019) — 13장
+- Krah 등 (2017) — 7장
+- Kunle 등 (2012) — 13장
+- Kunnumakkara 등 (2017) — 10장
+- Lasker Foundation (n.d.) — 4장
+- Li 등 (2013a) — 11장
+- Li 등 (2013b) — 11장
+- Li 등 (2018) — 2장
+- Li 등 (2020) — 2·13장
+- Lim 등 (2001) — 10장
+- Lim 등 (2007) — 9장
+- Lulekal 등 (2008) — 7장
+- Luo 등 (2021) — 13·14장
+- Lv 등 (2019) — 3장
+- Mans 등 (2000) — 8장
+- Marcus & Grollman (2002) — 13장
+- Markowitz 등 (2003) — 6장
+- Maroyi (2013) — 7장
+- Martin (2003) — 11장
+- McIntyre 등 (2016) — 9장
+- Melzer 등 (2004) — 6장
+- Mohanraj 등 (2018) — 4장
+- Moore 등 (2000) — 6장
+- Moses 등 (2013) — 14장
+- Mosihuzzaman & Choudhary (2008) — 13장
+- Mousavi & Bathaie (2011) — 5장
+- Narayanapillai 등 (2014) — 9장
+- Nathan & Scholten (1999) — 6·13장
+- Newmaster 등 (2013) — 12장
+- Ng 등 (2017) — 12장
+- Ngarivhume 등 (2014) — 7장
+- Nortier 등 (2000) — 12장
+- Noviana 등 (2022) — 13장
+- Oliver (2013) — 9장
+- Onguéné 등 (2013) — 7장
+- Pan 등 (2014) — 14장
+- Pantano 등 (2016) — 9장
+- Parasuraman 등 (2014) — 4장
+- Pazyar 등 (2013) — 9장
+- Peltzer 등 (2008) — 7장
+- Petrovska (2012) — 서장·1장
+- Pleszczyńska 등 (2017) — 1장
+- Potterat & Hamburger (2007) — 9장
+- Prasad 등 (2014) — 10장
+- Prasher 등 (2008) — 4장
+- Rege 등 (1999) — 4장
+- Rowin & Lewis (1996) — 6장
+- Ru 등 (2014) — 10장
+- Russmann 등 (2001) — 9장
+- Russo (2011) — 2장
+- Saad 등 (2005) — 5장
+- Saad 등 (2006) — 5장
+- Saldívar-González 등 (2021) — 14장
+- Saper 등 (2004) — 12장
+- Saper 등 (2008) — 4장
+- Schmid (1998) — 8장
+- Shamsi Baghbanan 등 (2014) — 5장
+- Shikov 등 (2014) — 13장
+- Slifman 등 (1998) — 13장
+- Small 등 (2017) — 11장
+- So 등 (2018) — 13장
+- Sobhani 등 (2017) — 5장
+- Sparreboom 등 (2004) — 12장
+- Stanifer 등 (2015) — 7장
+- Stone (1763) — 서장
+- Taylor 등 (2003) — 6장
+- Thakkar 등 (2020) — 13장
+- Tu (2011) — 서장
+- Vaidya & Devasagayam (2007) — 13장
+- Vakil (1949) — 4장
+- Wang 등 (2005) — 14장
+- Wani 등 (1971) — 서장·2장
+- Wankhede 등 (2015) — 4장
+- Weyrich 등 (2017) — 1장
+- Wilson 등 (2015) — 7장
+- Wilt 등 (1998) — 11장
+- Withering (1785) — 서장·2장
+- Wu 등 (2009) — 11·14장
+- Xiang 등 (2008) — 3장
+- Xu 등 (2015) — 3장
+- Yakubo 등 (2014) — 3장
+- Yang 등 (2017) — 13장
+- Yasunaga 등 (2011) — 3장
+- Yimer 등 (2019) — 5장
+- Yuan 등 (2017) — 10장
+- Zhang 등 (2019) — 10장
+- Zhang 등 (2023) — 10·14장
+- Zhao 등 (2010) — 13장
+- Zhong 등 (2010) — 11장
+- Zhou 등 (2005) — 10장
+- Zhou 등 (2016) — 10장
+</ul>

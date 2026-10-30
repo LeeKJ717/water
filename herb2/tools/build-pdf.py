@@ -40,6 +40,7 @@ th, td { border:.5pt solid #777; padding:1.2mm 1.8mm; vertical-align:top } th { 
 .opener { page-break-after:always; text-align:center }
 .opener img { width:142mm; margin-top:12mm } .mini-toc { font:9.5pt 'Noto Sans CJK KR'; margin:8mm 15mm; text-align:left }
 .pagebreak { page-break-after:always }
+.idx { column-count:2; column-gap:8mm; list-style:none; padding:0; margin:0; font:8.6pt/1.4 'Noto Sans CJK KR' } .idx li { break-inside:avoid; margin:0 0 .6mm }
 .partpage { page-break-before:always; page-break-after:always; text-align:center; padding-top:70mm }
 .partpage h1.parth { font-size:26pt; page-break-before:avoid; margin-bottom:6mm }
 .partsub { font:13pt 'Noto Sans CJK KR'; color:#444 } .partpage ul { list-style:none; margin-top:14mm; font:11pt 'Noto Sans CJK KR' } .partpage li { margin-bottom:3mm }

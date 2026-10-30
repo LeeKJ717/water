@@ -65,9 +65,9 @@ for ed in ("color", "bw"):
     # 장 시작 쪽: 쪽의 첫 줄이 장 제목으로 시작하는 쪽(순서대로 탐색)
     starts = {}; nxt = 1
     titles = {}
-    for code in [x for x in book["order"] if x.startswith("ch")]:
+    for code in [x for x in book["order"] if x.startswith(("ch", "ap"))]:
         mp = ROOT / "chapters" / f"{code}.md"
-        if mp.exists(): titles[int(code[2:])] = re.sub(r"^\d+장\.\s*", "", re.search(r"^#\s+(.+)$", rd(mp), re.M).group(1))[:10].replace(" ", "")
+        if mp.exists(): titles[int(code[2:]) + (100 if code.startswith("ap") else 0)] = re.sub(r"^\d+장\.\s*", "", re.search(r"^#\s+(.+)$", rd(mp), re.M).group(1))[:10].replace(" ", "")
     for no in sorted(titles):
         for i in range(nxt, n+1):
             t = txt[i-1] if i-1 < len(txt) else ""
@@ -77,7 +77,7 @@ for ed in ("color", "bw"):
     for i in range(1, n+1):
         ch = max([no for no, sp in starts.items() if sp <= i], default=-1)
         t = txt[i-1] if i-1 < len(txt) else ""
-        caps = re.findall(r"^\s*((?:그림|표) \d+-\d+)\.", t, re.M)
+        caps = re.findall(r"^\s*((?:그림|표) [A-Z\d]+-\d+)\.", t, re.M)
         heads = re.findall(r"^\s*(\d+\. [^\n]{2,40}|이 장을 읽기 전에|이 장을 마치며|참고문헌)\s*$", t, re.M)
         b, nonempty = blank.get(i, (0, False))
         pm[ed][i] = dict(ch=ch, caps=caps, heads=heads)
@@ -92,9 +92,9 @@ def head_page(ed, ch, head):
         if d["ch"] == ch and any(head in h for h in d["heads"]): return p
 
 # ---------- 장 ----------
-CODES = [x for x in book["order"] if x.startswith("ch")]
+CODES = [x for x in book["order"] if x.startswith(("ch", "ap"))]
 for code in CODES:
-    no = int(code[2:]); mdp = ROOT / "chapters" / f"{code}.md"
+    no = int(code[2:]) + (100 if code.startswith("ap") else 0); mdp = ROOT / "chapters" / f"{code}.md"
     if not mdp.exists(): continue
     md = rd(mdp); vp = ROOT / "chapters" / f"verify-{code}.md"
     title = re.search(r"^#\s+(.+)$", md, re.M).group(1)
@@ -102,7 +102,7 @@ for code in CODES:
     figs = re.findall(r'<figcaption><strong>(그림 \d+-\d+)\.\s*(.*?)</strong>\s*(.*?)</figcaption>', md, re.S)
     opener = re.search(r'<p class="fig-cap"><strong>(그림 \d+-\d+)\.\s*(.*?)</strong>\s*(.*?)</p>', md, re.S)
     figl = ([opener.groups()] if opener else []) + figs
-    tbls = re.findall(r'<div class="tblwrap" markdown="1">\s*<p class="cap"><strong>(표 \d+-\d+)\.\s*(.*?)</strong></p>\s*(.*?)</div>', md, re.S)
+    tbls = re.findall(r'<div class="tblwrap" markdown="1">\s*<p class="cap"><strong>(표 [A-Z\d]+-\d+)\.\s*(.*?)</strong></p>\s*(.*?)</div>', md, re.S)
     refpart = md.split("## 참고문헌")[-1] if "## 참고문헌" in md else ""
     refs = [l[2:].strip() for l in refpart.splitlines() if l.startswith("- ")]
     ps = [p for p, d in pm["color"].items() if d["ch"] == no]; pb = [p for p, d in pm["bw"].items() if d["ch"] == no]
