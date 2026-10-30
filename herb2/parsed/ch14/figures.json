@@ -1,0 +1,65 @@
+[
+ {
+  "label": "그림 14-1",
+  "title": "이 책이 걸어온 길(개념도)",
+  "color": "figures/ch14/그림14-1.png",
+  "bw": "figures/ch14/그림14-1-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 14-2",
+  "title": "말뭉치의 연도별 논문 수(1995~2025)",
+  "color": "figures/ch14/그림14-2.png",
+  "bw": "figures/ch14/그림14-2-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 14-3",
+  "title": "말뭉치 논문 중 주제 용어를 언급한 비율의 추이",
+  "color": "figures/ch14/그림14-3.png",
+  "bw": "figures/ch14/그림14-3-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 14-4",
+  "title": "혼합물을 읽는 새 방법의 흐름(개념도)",
+  "color": "figures/ch14/그림14-4.png",
+  "bw": "figures/ch14/그림14-4-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 14-5",
+  "title": "식물 천연물 생산의 두 갈래(개념도)",
+  "color": "figures/ch14/그림14-5.png",
+  "bw": "figures/ch14/그림14-5-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 14-6",
+  "title": "인도 히말라야 보호구역의 위협받는 약용 식물 60종 중 단계별 비율",
+  "color": "figures/ch14/그림14-6.png",
+  "bw": "figures/ch14/그림14-6-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ },
+ {
+  "label": "그림 14-7",
+  "title": "내일의 과제 지도(개념도)",
+  "color": "figures/ch14/그림14-7.png",
+  "bw": "figures/ch14/그림14-7-bw.png",
+  "script": "figures/ch14/make-figures.py",
+  "data": "figures/ch14/data/",
+  "exists": true
+ }
+]

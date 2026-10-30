@@ -1,0 +1,26 @@
+[
+ {
+  "label": "표 14-1",
+  "title": "새로운 방법과 그 근거의 수준",
+  "csv": "tables/ch14-표14-1.csv",
+  "cols": 4,
+  "rows": 3,
+  "note": ""
+ },
+ {
+  "label": "표 14-2",
+  "title": "약용 식물 보전 연구의 요약",
+  "csv": "tables/ch14-표14-2.csv",
+  "cols": 3,
+  "rows": 5,
+  "note": ""
+ },
+ {
+  "label": "표 14-3",
+  "title": "이 책이 확인한 한계와 내일의 과제",
+  "csv": "tables/ch14-표14-3.csv",
+  "cols": 4,
+  "rows": 5,
+  "note": ""
+ }
+]
