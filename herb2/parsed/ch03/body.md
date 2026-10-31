@@ -171,7 +171,7 @@
 
 동아시아 전통의학 연구에는 또 하나의 걸림돌이 있었다. 같은 개념을 나라마다 다른 이름으로 불러 왔다는 것이다. 한국에서는 한의학, 일본에서는 캄포, 중국에서는 중의학이라 하고, 같은 한자어가 나라마다 다른 영어로 번역되었다. 논문을 모으고 비교하려 해도 용어가 맞지 않으면 같은 것을 세는 것이 불가능하다.
 
-세계보건기구(WHO) 서태평양 지역 사무소는 이 문제를 정면으로 다루어 『전통의학 국제 표준 용어(WHO International Standard Terminologies on Traditional Medicine in the Western Pacific Region)』를 펴냈다. 최승훈(Seung-Hoon Choi)과 장일무(Il-Moo Chang)가 이 책을 소개한 논문(Choi & Chang, 2008)에 따르면 이 책은 중국, 일본, 한국, 베트남의 전통의학에서 쓰는 용어 3,259개를 담고 있다. 각 용어에 영어 표기, 원래의 한자, 간단한 영어 정의를 붙였고, 기초 이론과 진단, 질병, 침구 같은 여러 치료법에 이르는 3,106개 용어와 네 나라의 중요 고전 153종의 영어 제목으로 구성된다. 또 분야별로 100 단위의 번호를 매겨 나중에 용어를 더 보태도 체계가 흐트러지지 않게 했고, 이 번호는 논문 검색용 데이터베이스를 만드는 데도 쓸 수 있다.
+세계보건기구(WHO) 서태평양 지역 사무소는 이 문제를 정면으로 다루어 『전통의학 국제 표준 용어(WHO International Standard Terminologies on Traditional Medicine in the Western Pacific Region)』를 펴냈다. 최승훈(Seung-Hoon Choi)과 장일무(Il-Moo Chang)가 이 책을 소개한 논문(Choi & Chang, 2010)에 따르면 이 책은 중국, 일본, 한국, 베트남의 전통의학에서 쓰는 용어 3,259개를 담고 있다. 각 용어에 영어 표기, 원래의 한자, 간단한 영어 정의를 붙였고, 기초 이론과 진단, 질병, 침구 같은 여러 치료법에 이르는 3,106개 용어와 네 나라의 중요 고전 153종의 영어 제목으로 구성된다. 또 분야별로 100 단위의 번호를 매겨 나중에 용어를 더 보태도 체계가 흐트러지지 않게 했고, 이 번호는 논문 검색용 데이터베이스를 만드는 데도 쓸 수 있다.
 
 용어 표준화는 겉으로는 사전을 만드는 일이지만 실제로는 증거를 모을 수 있게 하는 기반 공사이다. 같은 증(證)을 가진 환자를 같은 이름으로 불러야 서로 다른 나라의 임상시험을 합쳐 읽을 수 있다. 이 문제는 11장(임상시험)에서 다시 나온다.
 
@@ -202,7 +202,7 @@
 
 - Arai, M., Katai, S., Muramatsu, S., Namiki, T., Hanawa, T., & Izumi, S. (2012). Current status of Kampo medicine curricula in all Japanese medical schools. *BMC Complementary and Alternative Medicine, 12*, Article 207. https://doi.org/10.1186/1472-6882-12-207
 - Cho, G., Park, H.-M., Jung, W.-M., Cha, W.-S., Lee, D., & Chae, Y. (2020). Identification of candidate medicinal herbs for skincare via data mining of the classic Donguibogam text on Korean medicine. *Integrative Medicine Research, 9*. https://doi.org/10.1016/j.imr.2020.100436
-- Choi, S.-H., & Chang, I.-M. (2008). A milestone in codifying the wisdom of traditional oriental medicine: TCM, Kampo, TKM, TVM—WHO international standard terminologies on traditional medicine in the Western Pacific Region. *Evidence-Based Complementary and Alternative Medicine, 5*. https://doi.org/10.1093/ecam/nen083
+- Choi, S.-H., & Chang, I.-M. (2010). A milestone in codifying the wisdom of traditional oriental medicine: TCM, Kampo, TKM, TVM—WHO international standard terminologies on traditional medicine in the Western Pacific Region. *Evidence-Based Complementary and Alternative Medicine, 7*(3), 303–305. https://doi.org/10.1093/ecam/nen083
 - Hsü, E. (2006). Reflections on the 'discovery' of the antimalarial qinghao. *British Journal of Clinical Pharmacology, 61*(6), 666–670. https://doi.org/10.1111/j.1365-2125.2006.02673.x
 - Katayama, K., Yoshino, T., Munakata, K., Yamaguchi, R., Imoto, S., Miyano, S., & Watanabe, K. (2013). Prescription of Kampo drugs in the Japanese health care insurance program. *Evidence-Based Complementary and Alternative Medicine, 2013*, Article 576973. https://doi.org/10.1155/2013/576973
 - Klayman, D. L. (1985). Qinghaosu (artemisinin): An antimalarial drug from China. *Science, 228*(4703), 1049–1055. https://doi.org/10.1126/science.3887571

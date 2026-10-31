@@ -145,7 +145,7 @@
 ## 참고문헌
 
 - Caesar, L. K., & Cech, N. B. (2019). Synergy and antagonism in natural product extracts: When 1 + 1 does not equal 2. *Natural Product Reports, 36*(6), 869–888. https://doi.org/10.1039/c9np00011a
-- Efferth, T., & Koch, E. (2010). Complex interactions between phytochemicals: The multi-target therapeutic concept of phytotherapy. *Current Drug Targets, 12*(1), 122–132. https://doi.org/10.2174/138945011793591626
+- Efferth, T., & Koch, E. (2011). Complex interactions between phytochemicals: The multi-target therapeutic concept of phytotherapy. *Current Drug Targets, 12*(1), 122–132. https://doi.org/10.2174/138945011793591626
 - Gu, J., Gui, Y., Chen, L., Yuan, G., Lu, H., & Xu, X. (2013). Use of natural products as chemical library for drug discovery and network pharmacology. *PLoS ONE, 8*(4), Article e62839. https://doi.org/10.1371/journal.pone.0062839
 - Kunnumakkara, A. B., Bordoloi, D., Padmavathi, G., Monisha, J., Roy, N. K., Prasad, S., & Aggarwal, B. B. (2017). Curcumin, the golden nutraceutical: Multitargeting for multiple chronic diseases. *British Journal of Pharmacology, 174*(11), 1325–1348. https://doi.org/10.1111/bph.13621
 - Lim, G. P., Chu, T., Yang, F., Beech, W., Frautschy, S. A., & Cole, G. M. (2001). The curry spice curcumin reduces oxidative damage and amyloid pathology in an Alzheimer transgenic mouse. *Journal of Neuroscience, 21*(21), 8370–8377. https://doi.org/10.1523/jneurosci.21-21-08370.2001

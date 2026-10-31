@@ -63,7 +63,7 @@
 
 ## 3. 약초가 약이 되는 길: 표준화 추출물과 모노그래프
 
-유럽 식물요법이 분자 하나가 아니라 추출물을 약으로 삼는다는 말은 정확히 무슨 뜻일까. 에페르트(Thomas Efferth)와 코흐(Egon Koch)는 2010년의 개관에서 그 논리를 이렇게 설명한다. 약초의 치료 효과는 여러 성분의 혼합물이 함께 작용하는 데서 나오며, 성분 사이에 상승 또는 길항 작용이 있을 수 있다. 상호작용의 기전으로는 생체이용률, 세포막 수송 과정에의 간섭, 전구약물의 활성화나 활성 성분의 비활성 대사체로의 전환, 같은 신호 전달 경로의 여러 지점에서의 동시 작용(다중 표적), 표적 단백질 결합의 억제 등이 꼽힌다. 그리고 이런 상승 효과를 풀어내는 데 오믹스(-omics)와 시스템 생물학이 도움이 될 수 있다고 한다(Efferth & Koch, 2010). 이 설명은 개관 논문의 가설적 틀이며, 개별 약초에서 그 기전이 모두 입증되었다는 뜻은 아니다.
+유럽 식물요법이 분자 하나가 아니라 추출물을 약으로 삼는다는 말은 정확히 무슨 뜻일까. 에페르트(Thomas Efferth)와 코흐(Egon Koch)는 2011년의 개관에서 그 논리를 이렇게 설명한다. 약초의 치료 효과는 여러 성분의 혼합물이 함께 작용하는 데서 나오며, 성분 사이에 상승 또는 길항 작용이 있을 수 있다. 상호작용의 기전으로는 생체이용률, 세포막 수송 과정에의 간섭, 전구약물의 활성화나 활성 성분의 비활성 대사체로의 전환, 같은 신호 전달 경로의 여러 지점에서의 동시 작용(다중 표적), 표적 단백질 결합의 억제 등이 꼽힌다. 그리고 이런 상승 효과를 풀어내는 데 오믹스(-omics)와 시스템 생물학이 도움이 될 수 있다고 한다(Efferth & Koch, 2010). 이 설명은 개관 논문의 가설적 틀이며, 개별 약초에서 그 기전이 모두 입증되었다는 뜻은 아니다.
 
 이런 접근에서는 추출물의 품질이 곧 약의 정체성이므로 품질 관리와 평가의 틀이 필요하다. 독일 연방 보건 당국 산하의 전문가 위원회인 위원회 E(Commission E)가 펴낸 모노그래프 380편을 영어로 옮긴 책 『The Complete German Commission E Monographs』가 1998년 미국 식물학회(American Botanical Council)에서 나왔고, 한 서평은 이를 약초 의약품의 안전과 효능을 평가한 공식적이고 동료 심사를 거친 안내서로 소개한다(Nathan & Scholten, 1999). 이 한 줄이 유럽 식물요법의 제도적 성격을 잘 보여 준다. 약초는 전승이 아니라 항목별 평가의 대상이 되었다.
 
@@ -187,9 +187,9 @@
 
 ## 참고문헌
 
-- Birks, J., & Grimley Evans, J. (2009). *Ginkgo biloba* for cognitive impairment and dementia. *Cochrane Database of Systematic Reviews*, (1), Article CD003120. https://doi.org/10.1002/14651858.cd003120.pub3
+- Birks, J., & Grimley Evans, J. (2009). *Ginkgo biloba* for cognitive impairment and dementia. *Cochrane Database of Systematic Reviews, 2009*(1), Article CD003120. https://doi.org/10.1002/14651858.cd003120.pub3
 - Carraro, J.-C., Raynaud, J.-P., Koch, G. G., Chisholm, G. D., Di Silverio, F., Teillac, P., Calais da Silva, F., Cauquil, J., Chopin, D. K., Hamdy, F. C., Hanuš, M., Hauri, D., Kalinteris, A., Marencak, J., Perier, A., & Perrin, P. (1996). Comparison of phytotherapy (Permixon®) with finasteride in the treatment of benign prostate hyperplasia: A randomized international study of 1,098 patients. *The Prostate, 29*(4), 231–240. https://doi.org/10.1002/(sici)1097-0045(199610)29:4<231::aid-pros4>3.0.co;2-e
-- Efferth, T., & Koch, E. (2010). Complex interactions between phytochemicals: The multi-target therapeutic concept of phytotherapy. *Current Drug Targets, 12*(1), 122–132. https://doi.org/10.2174/138945011793591626
+- Efferth, T., & Koch, E. (2011). Complex interactions between phytochemicals: The multi-target therapeutic concept of phytotherapy. *Current Drug Targets, 12*(1), 122–132. https://doi.org/10.2174/138945011793591626
 - European Medicines Agency. (n.d.). *Herbal medicinal products*. https://www.ema.europa.eu/en/herbal-medicinal-products
 - Johne, A., Brockmöller, J., Bauer, S., Maurer, A., Langheinrich, M., & Roots, I. (1999). Pharmacokinetic interaction of digoxin with an herbal extract from St John's wort (*Hypericum perforatum*). *Clinical Pharmacology & Therapeutics, 66*(4), 338–345. https://doi.org/10.1053/cp.1999.v66.a101944
 - Johnson, E. S., Kadam, N. P., Hylands, D. M., & Hylands, P. J. (1985). Efficacy of feverfew as prophylactic treatment of migraine. *BMJ, 291*(6495), 569–573. https://doi.org/10.1136/bmj.291.6495.569

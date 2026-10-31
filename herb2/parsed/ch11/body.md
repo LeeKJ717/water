@@ -118,7 +118,7 @@
 | 블랙 코호시 (Jacobson 등, 2001) | 무작위 위약 대조, 유방암 병력 여성 | 85명 | 열감 횟수와 강도에서 위약과 유의한 차이 없음 | 음성 결과이며 시험 방법론의 타당성을 보여 줌 |
 | 기력강심 캡슐 (Li 등, 2013b) | 다기관 이중맹검, 표준 치료에 추가 | 512명 | NT-proBNP 감소가 더 큼 | 일차 평가변수가 혈액 표지자 |
 | 커큐민 (Chuengsamarn 등, 2012) | 이중맹검 위약 대조, 9개월 | 240명 | 당뇨 진단 0% 대 16.4% | 이 초록만으로는 다른 시험의 재현 여부를 알 수 없음 |
-| 커큐민 (Small 등, 2017) | 이중맹검 위약 대조, 18개월 | 40명 | 기억·주의 개선, 군간 p값 0.04~0.05 | 소규모, 군간 비교가 경계적 |
+| 커큐민 (Small 등, 2018) | 이중맹검 위약 대조, 18개월 | 40명 | 기억·주의 개선, 군간 p값 0.04~0.05 | 소규모, 군간 비교가 경계적 |
 
 </div>
 
@@ -173,7 +173,7 @@
 - Li, X., Yang, G., Li, X., Zhang, Y., Yang, J., Chang, J., Sun, X., Zhou, X., Guo, Y., Xu, Y., Liu, J., & Bensoussan, A. (2013a). Traditional Chinese medicine in cancer care: A review of controlled clinical studies published in Chinese. *PLoS ONE, 8*(4), Article e60338. https://doi.org/10.1371/journal.pone.0060338
 - Li, X., Zhang, J., Huang, J., Ma, A., Yang, J., Li, W., Wu, Z., Yao, C., Zhang, Y., Yao, W., Zhang, B., & Gao, R. (2013b). A multicenter, randomized, double-blind, parallel-group, placebo-controlled study of the effects of Qili Qiangxin capsules in patients with chronic heart failure. *Journal of the American College of Cardiology, 62*(12), 1065–1072. https://doi.org/10.1016/j.jacc.2013.05.035
 - Martin, K. W. (2003). Herbal medicines for treatment of bacterial infections: A review of controlled clinical trials. *Journal of Antimicrobial Chemotherapy, 51*(2), 241–246. https://doi.org/10.1093/jac/dkg087
-- Small, G. W., Siddarth, P., Li, Z., Miller, K. J., Ercoli, L. M., Emerson, N. D., Martinez, J., Wong, K.-P., Liu, J., Merrill, D. A., Chen, S. T., Henning, S. M., Satyamurthy, N., Huang, S.-C., Heber, D., & Barrio, J. R. (2017). Memory and brain amyloid and tau effects of a bioavailable form of curcumin in non-demented adults: A double-blind, placebo-controlled 18-month trial. *The American Journal of Geriatric Psychiatry, 26*(3), 266–277. https://doi.org/10.1016/j.jagp.2017.10.010
+- Small, G. W., Siddarth, P., Li, Z., Miller, K. J., Ercoli, L. M., Emerson, N. D., Martinez, J., Wong, K.-P., Liu, J., Merrill, D. A., Chen, S. T., Henning, S. M., Satyamurthy, N., Huang, S.-C., Heber, D., & Barrio, J. R. (2018). Memory and brain amyloid and tau effects of a bioavailable form of curcumin in non-demented adults: A double-blind, placebo-controlled 18-month trial. *The American Journal of Geriatric Psychiatry, 26*(3), 266–277. https://doi.org/10.1016/j.jagp.2017.10.010
 - Wilt, T. J., Ishani, A., Stark, G., MacDonald, R. H., Lau, J. T. F., & Mulrow, C. D. (1998). Saw palmetto extracts for treatment of benign prostatic hyperplasia. *JAMA, 280*(18), 1604–1609. https://doi.org/10.1001/jama.280.18.1604
 - Wu, T., Li, Y., Bian, Z., Liu, G., & Moher, D. (2009). Randomized trials published in some Chinese journals: How many are randomized? *Trials, 10*, Article 46. https://doi.org/10.1186/1745-6215-10-46
-- Zhong, Y., Fu, J., Liu, X., Diao, X., Mao, B., Fan, T., Yang, H., Liu, G., & Zhang, W. (2010). The reporting quality, scientific rigor, and ethics of randomized placebo-controlled trials of traditional Chinese medicine compound formulations and the differences between Chinese and non-Chinese trials. *Current Therapeutic Research, 71*(3), 141–154. https://doi.org/10.1016/j.curtheres.2010.02.001
+- Zhong, Y., Fu, J., Liu, X., Diao, X., Mao, B., Fan, T., Yang, H., Liu, G., & Zhang, W. (2010). The reporting quality, scientific rigor, and ethics of randomized placebo-controlled trials of traditional Chinese medicine compound formulations and the differences between Chinese and non-Chinese trials. *Current Therapeutic Research, 71*(1), 30–49. https://doi.org/10.1016/j.curtheres.2010.02.001

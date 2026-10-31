@@ -19,6 +19,9 @@
 - BMC·Hindawi·PLoS 등 논문 번호 저널: 호 번호는 APA상 필수가 아니어서 생략 유지.
 - JAMA·Arch Intern Med 등 Crossref가 시작 쪽만 주는 경우: 원고의 시작–끝 쪽 유지.
 
+## 추가 확인(v1b)
+- Rege 1999(13(4), 275–291), Capasso 1998(352(9143), 1864), Bork 1997(402(1), 85–90): Crossref와 일치.
+
 ## 남은 것
-- 조회 실패 3개 DOI(괄호 포함): Rege 1999(Phytother Res), Carraro 1996(Prostate), Bork 1997(FEBS Lett), Capasso 1998(Lancet). 스크립트를 다시 돌리면 이어서 조회됨.
-- 이 변경 후 PDF 재빌드 필요(쪽 번호 확인).
+- Carraro 1996(Prostate) DOI는 조회 결과가 없어 재조회 필요.
+- 이 변경 후 PDF 재빌드(v4)로 쪽 번호 재확인.

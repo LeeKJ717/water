@@ -59,7 +59,7 @@
 |---|---|---|---|
 | 네트워크 약리학 | 혼합물을 리간드-표적 네트워크로 이해 | Gertsch (2011) | 시너지의 실험적 근거 부족 |
 | 대사체학 | 혼합물의 전체 효과를 생물계에서 관찰 | Wang 등 (2005) | 가능성을 제시한 단계의 개관 |
-| 인공지능 | 대규모 오믹스 자료에서 작용 기전과 후보 탐색 | Zhang 등 (2023); Saldívar-González 등 (2021) | 예측의 검증이 별도로 필요 |
+| 인공지능 | 대규모 오믹스 자료에서 작용 기전과 후보 탐색 | Zhang 등 (2023); Saldívar-González 등 (2022) | 예측의 검증이 별도로 필요 |
 
 </div>
 
@@ -149,7 +149,7 @@
 - Luo, L., Wang, B., Jiang, J., Fitzgerald, M., Huang, Q., Zheng, Y., Li, H., Zhang, J., Wei, J., Yang, C., Zhang, H., Dong, L., & Chen, S. (2021). Heavy metal contaminations in herbal medicines: Determination, comprehensive risk assessments, and solutions. *Frontiers in Pharmacology, 11*, Article 595335. https://doi.org/10.3389/fphar.2020.595335
 - Moses, T., Pollier, J., Thevelein, J. M., & Goossens, A. (2013). Bioengineering of plant (tri)terpenoids: From metabolic engineering of plants to synthetic biology in vivo and in vitro. *New Phytologist, 200*(1), 27–43. https://doi.org/10.1111/nph.12325
 - Pan, S.-Y., Litscher, G., Gao, S.-H., Zhou, S.-F., Yu, Z.-L., Chen, H.-Q., Zhang, S.-F., Tang, M.-K., Sun, J.-N., & Ko, K.-M. (2014). Historical perspective of traditional indigenous medical practices: The current renaissance and conservation of herbal resources. *Evidence-Based Complementary and Alternative Medicine, 2014*, Article 525340. https://doi.org/10.1155/2014/525340
-- Saldívar-González, F. I., Aldas-Bulos, V. D., Medina-Franco, J. L., & Plisson, F. (2021). Natural product drug discovery in the artificial intelligence era. *Chemical Science, 13*(6), 1526–1546. https://doi.org/10.1039/d1sc04471k
+- Saldívar-González, F. I., Aldas-Bulos, V. D., Medina-Franco, J. L., & Plisson, F. (2022). Natural product drug discovery in the artificial intelligence era. *Chemical Science, 13*(6), 1526–1546. https://doi.org/10.1039/d1sc04471k
 - Wang, M., Lamers, R.-J. A. N., Korthout, H. A. A. J., van Nesselrooij, J. H. J., Witkamp, R. F., van der Heijden, R., Voshol, P. J., Havekes, L. M., Verpoorte, R., & van der Greef, J. (2005). Metabolomics in the context of systems biology: Bridging traditional Chinese medicine and molecular pharmacology. *Phytotherapy Research, 19*(3), 173–182. https://doi.org/10.1002/ptr.1624
 - Wu, T., Li, Y., Bian, Z., Liu, G., & Moher, D. (2009). Randomized trials published in some Chinese journals: How many are randomized? *Trials, 10*, Article 46. https://doi.org/10.1186/1745-6215-10-46
 - Zhang, P., Zhang, D., Zhou, W., Wang, L., Wang, B., Zhang, T., & Li, S. (2023). Network pharmacology: Towards the artificial intelligence-based precision traditional Chinese medicine. *Briefings in Bioinformatics, 25*(1), Article bbad518. https://doi.org/10.1093/bib/bbad518

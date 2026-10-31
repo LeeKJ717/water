@@ -151,7 +151,7 @@
 - Fraenkel, G. S. (1959). The raison d'être of secondary plant substances. *Science, 129*(3361), 1466–1470. https://doi.org/10.1126/science.129.3361.1466
 - Isah, T. (2019). Stress and defense responses in plant secondary metabolites production. *Biological Research, 52*, Article 39. https://doi.org/10.1186/s40659-019-0246-3
 - Li, Y., Kong, D., Fu, Y., Sussman, M. R., & Wu, H. (2020). The effect of developmental and environmental factors on secondary metabolites in medicinal plants. *Plant Physiology and Biochemistry, 148*, 80–89. https://doi.org/10.1016/j.plaphy.2020.01.006
-- Li, Y., Wen, K., Ruan, X., Zhao, Y., Wei, F., & Wang, Q. (2018). Response of plant secondary metabolites to environmental factors. *Molecules, 23*(4), Article 762. https://doi.org/10.3390/molecules23040762
+- Yang, L., Wen, K., Ruan, X., Zhao, Y., Wei, F., & Wang, Q. (2018). Response of plant secondary metabolites to environmental factors. *Molecules, 23*(4), Article 762. https://doi.org/10.3390/molecules23040762
 - Russo, E. B. (2011). Taming THC: Potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. *British Journal of Pharmacology, 163*(7), 1344–1364. https://doi.org/10.1111/j.1476-5381.2011.01238.x
 - Wani, M. C., Taylor, H. L., Wall, M. E., Coggon, P., & McPhail, A. T. (1971). Plant antitumor agents. VI. The isolation and structure of taxol, a novel antileukemic and antitumor agent from *Taxus brevifolia*. *Journal of the American Chemical Society, 93*(9), 2325–2327. https://doi.org/10.1021/ja00738a045
 - Withering, W. (1785). *An account of the foxglove, and some of its medical uses: With practical remarks on dropsy, and other diseases*. M. Swinney.

@@ -60,7 +60,7 @@
 
 말라리아는 이 대륙에서 전통 의학과 현대 약학이 가장 오래 만나 온 질병이다. 이 절에서는 같은 질병을 세 층위에서 본 연구를 이어서 읽는다. 마을의 치료사, 실험실의 추출물, 화합물의 총정리이다.
 
-**치료사가 말한 것.** 2014년 응가리부메(Talkmore Ngarivhume) 등은 짐바브웨 마니칼랜드 주 치핑게(Chipinge) 지역에서 14명의 전통 치료사를 반구조화 면담했다. 연구 배경은 짐바브웨 인구의 약 50%가 해마다 말라리아 감염 위험에 놓인다는 점이었다. 치료사들은 16과 28종의 식물을 쓰고 있었고, 가장 많이 언급된 것은 카시아 압브레비아타(Cassia abbreviata)였다. 사용 부위는 뿌리가 55.3%로 가장 많았으며, 대부분 건조 가루로 병에 보관해 물에 우려 마셨다. 치료사들은 자신의 지식을 영적인 가족 유산으로 여겼다. 치료에 반응하지 않는 환자를 병원에 보내는 치료사는 25%에 그쳤고, 나머지는 악령이 치료를 실패하게 한다고 믿어 다른 식물을 쓰거나 정화 의례를 하는 쪽을 택한다고 답했다(Ngarivhume et al., 2014). 14명의 소규모 탐색 조사이므로, 이 비율을 이 나라 전체의 값으로 읽을 수는 없다.
+**치료사가 말한 것.** 2015년 응가리부메(Talkmore Ngarivhume) 등은 짐바브웨 마니칼랜드 주 치핑게(Chipinge) 지역에서 14명의 전통 치료사를 반구조화 면담했다. 연구 배경은 짐바브웨 인구의 약 50%가 해마다 말라리아 감염 위험에 놓인다는 점이었다. 치료사들은 16과 28종의 식물을 쓰고 있었고, 가장 많이 언급된 것은 카시아 압브레비아타(Cassia abbreviata)였다. 사용 부위는 뿌리가 55.3%로 가장 많았으며, 대부분 건조 가루로 병에 보관해 물에 우려 마셨다. 치료사들은 자신의 지식을 영적인 가족 유산으로 여겼다. 치료에 반응하지 않는 환자를 병원에 보내는 치료사는 25%에 그쳤고, 나머지는 악령이 치료를 실패하게 한다고 믿어 다른 식물을 쓰거나 정화 의례를 하는 쪽을 택한다고 답했다(Ngarivhume et al., 2015). 14명의 소규모 탐색 조사이므로, 이 비율을 이 나라 전체의 값으로 읽을 수는 없다.
 
 **실험실이 확인한 것.** 1996년 브누아비칼(Françoise Benoit-Vical) 등은 코트디부아르의 치료사들이 말라리아에 쓰는 일곱 식물(Azadirachta indica, Cinnamomum camphora, Lippia multiflora, Vernonia colorata, Guiera senegalensis, Combretum micranthum, Ximenia americana)의 추출물을 만들어 열대열 말라리아 원충(Plasmodium falciparum) 두 계통에 시험했다. 하나는 클로로퀸 내성 계통(FcB1-Colombia), 다른 하나는 클로로퀸 민감 계통(F32-Tanzania)이었다. 추출은 치료사들이 대부분 쓰는 방식인 침출과 달임으로 했고, 활성은 방사성 하이포잔틴(3H-hypoxanthine)의 원충 내 흡수와 혈액 도말의 현미경 관찰로 평가했다. 일곱 식물 가운데 일부는 시험관에서 원충 성장을 뚜렷이 억제하는 듯 보였고, 일부는 덜 효과적으로 보였다(Benoit-Vical et al., 1996). 시험관 실험이므로 사람에서의 효과를 뜻하지 않는다.
 
@@ -68,7 +68,7 @@
 
 <figure class="fig">
 <img src="../figures/ch07/그림7-3.png" alt="말라리아 연구 세 층위"/>
-<figcaption><strong>그림 7-3. 말라리아 연구의 두 층위.</strong> 왼쪽은 짐바브웨 치프잉게의 치료사 14명이 답한 것(Ngarivhume et al., 2014). 오른쪽은 아프리카 식물 유래 항말라리아 화합물 278개 가운데 첫 편이 다룬 171개와 나머지(Onguéné et al., 2013).</figcaption>
+<figcaption><strong>그림 7-3. 말라리아 연구의 두 층위.</strong> 왼쪽은 짐바브웨 치프잉게의 치료사 14명이 답한 것(Ngarivhume et al., 2015). 오른쪽은 아프리카 식물 유래 항말라리아 화합물 278개 가운데 첫 편이 다룬 171개와 나머지(Onguéné et al., 2013).</figcaption>
 </figure>
 
 **검출과 해석.** 세 연구는 서로 다른 것을 검출했다. 응가리부메 등은 치료사가 쓰는 식물 목록과 그들의 질병관을 기록했다. 브누아비칼 등은 시험관에서 원충 성장이 줄어드는 현상을, 옹게네 등은 순수 화합물 수준의 활성 보고를 모았다. 이 세 층위는 서로 이어지지만 같은 것이 아니다. 마을에서 쓰는 식물의 물 추출물이 시험관에서 활성을 보였다는 사실은 그 식물이 사람의 말라리아를 치료한다는 증거가 아니다. 마을의 식물이 약이 되려면 그다음 단계(동물 실험, 임상시험)가 필요하며, 이는 10장과 11장에서 다룬다. 또 치료사의 75%가 병원 의뢰를 하지 않는다는 결과는 약초의 효능과 별개로 환자가 치료받을 기회의 문제를 제기한다.
@@ -172,7 +172,7 @@
 - Krah, E., de Kruijf, J. G., & Ragno, L. P. (2017). Integrating traditional healers into the health care system: Challenges and opportunities in rural northern Ghana. *Journal of Community Health, 43*(1), 157–163. https://doi.org/10.1007/s10900-017-0398-4
 - Lulekal, E., Kelbessa, E., Bekele, T., & Yineger, H. (2008). An ethnobotanical study of medicinal plants in Mana Angetu District, southeastern Ethiopia. *Journal of Ethnobiology and Ethnomedicine, 4*, Article 10. https://doi.org/10.1186/1746-4269-4-10
 - Maroyi, A. (2013). Traditional use of medicinal plants in south-central Zimbabwe: Review and perspectives. *Journal of Ethnobiology and Ethnomedicine, 9*, Article 31. https://doi.org/10.1186/1746-4269-9-31
-- Ngarivhume, T., Van Klooster, C., de Jong, J. T. V. M., & Van der Westhuizen, J. H. (2014). Medicinal plants used by traditional healers for the treatment of malaria in the Chipinge district in Zimbabwe. *Journal of Ethnopharmacology, 159*, 224–237. https://doi.org/10.1016/j.jep.2014.11.011
+- Ngarivhume, T., Van Klooster, C., de Jong, J. T. V. M., & Van der Westhuizen, J. H. (2015). Medicinal plants used by traditional healers for the treatment of malaria in the Chipinge district in Zimbabwe. *Journal of Ethnopharmacology, 159*, 224–237. https://doi.org/10.1016/j.jep.2014.11.011
 - Onguéné, P. A., Ntie-Kang, F., Lifongo, L. L., Ndom, J. C., Sippl, W., & Mbaze, L. M. (2013). The potential of anti-malarial compounds derived from African medicinal plants. Part I: A pharmacological evaluation of alkaloids and terpenoids. *Malaria Journal, 12*, Article 449. https://doi.org/10.1186/1475-2875-12-449
 - Peltzer, K., Friend-du Preez, N., Ramlagan, S., & Fomundam, H. (2008). Use of traditional complementary and alternative medicine for HIV patients in KwaZulu-Natal, South Africa. *BMC Public Health, 8*, Article 255. https://doi.org/10.1186/1471-2458-8-255
 - Stanifer, J. W., Patel, U. D., Karia, F., Thielman, N., Maro, V., Shimbi, D., Kilaweh, H., Lazaro, M., Matemu, O., Omolo, J., & Boyd, D. (2015). The determinants of traditional medicine use in Northern Tanzania: A mixed-methods study. *PLOS ONE, 10*(4), Article e0122638. https://doi.org/10.1371/journal.pone.0122638
