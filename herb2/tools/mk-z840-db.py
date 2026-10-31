@@ -8,6 +8,7 @@ from PIL import Image
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 VER = sys.argv[1] if len(sys.argv) > 1 else "v1"
+PVER = sys.argv[2] if len(sys.argv) > 2 else VER
 OUT = ROOT / "z840db" / f"herb2bookdb-{VER}"
 if OUT.exists(): shutil.rmtree(OUT)
 OUT.mkdir(parents=True)
@@ -58,7 +59,7 @@ def pages_of(pdf):
 pm = {}
 cur_ch = {}
 for ed in ("color", "bw"):
-    pdf = ROOT / "build" / f"herb2-world-{VER}-{ed}.pdf"
+    pdf = ROOT / "build" / f"herb2-world-{PVER}-{ed}.pdf"
     if not pdf.exists(): pdf = ROOT / "build" / f"herb2-world-v1-{ed}.pdf"
     n, blank, txt = pages_of(pdf); ch = -1
     pm[ed] = {}
