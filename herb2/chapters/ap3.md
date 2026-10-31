@@ -44,7 +44,7 @@
 - Chen 등 (2017) — 13장
 - Cheng 등 (2017) — 11장
 - Cho 등 (2020) — 3장
-- Choi & Chang (2008) — 3장
+- Choi & Chang (2010) — 3장
 - Chuengsamarn 등 (2012) — 11장
 - Corlett (2016) — 14장
 - Cravens 등 (2019) — 14장
@@ -54,7 +54,7 @@
 - Ebers (1875) — 1장
 - Edeoga 등 (2005) — 2장
 - Edger 등 (2015) — 2장
-- Efferth & Koch (2010) — 6·10장
+- Efferth & Koch (2011) — 6·10장
 - Ehrlich & Raven (1964) — 2장
 - Ekor (2014) — 서장
 - Elujoba 등 (2005) — 7장
@@ -99,7 +99,6 @@
 - Lasker Foundation (n.d.) — 4장
 - Li 등 (2013a) — 11장
 - Li 등 (2013b) — 11장
-- Li 등 (2018) — 2장
 - Li 등 (2020) — 2·13장
 - Lim 등 (2001) — 10장
 - Lim 등 (2007) — 9장
@@ -122,7 +121,7 @@
 - Nathan & Scholten (1999) — 6·13장
 - Newmaster 등 (2013) — 12장
 - Ng 등 (2017) — 12장
-- Ngarivhume 등 (2014) — 7장
+- Ngarivhume 등 (2015) — 7장
 - Nortier 등 (2000) — 12장
 - Noviana 등 (2022) — 13장
 - Oliver (2013) — 9장
@@ -144,14 +143,14 @@
 - Russo (2011) — 2장
 - Saad 등 (2005) — 5장
 - Saad 등 (2006) — 5장
-- Saldívar-González 등 (2021) — 14장
+- Saldívar-González 등 (2022) — 14장
 - Saper 등 (2004) — 12장
 - Saper 등 (2008) — 4장
 - Schmid (1998) — 8장
 - Shamsi Baghbanan 등 (2014) — 5장
 - Shikov 등 (2014) — 13장
 - Slifman 등 (1998) — 13장
-- Small 등 (2017) — 11장
+- Small 등 (2018) — 11장
 - So 등 (2018) — 13장
 - Sobhani 등 (2017) — 5장
 - Sparreboom 등 (2004) — 12장
@@ -174,6 +173,7 @@
 - Xu 등 (2015) — 3장
 - Yakubo 등 (2014) — 3장
 - Yang 등 (2017) — 13장
+- Yang 등 (2018) — 2장
 - Yasunaga 등 (2011) — 3장
 - Yimer 등 (2019) — 5장
 - Yuan 등 (2017) — 10장
