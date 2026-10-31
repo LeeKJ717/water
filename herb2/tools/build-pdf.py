@@ -5,10 +5,10 @@ B5(182x257mm), 쪽번호, 목차(쪽번호), 그림·표 쪼개짐 방지, 참�
 import re, sys, pathlib, markdown, weasyprint
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-VER = "v1"
+VER = next((a.split("=",1)[1] for a in sys.argv if a.startswith("--ver=")), "v1")
 TITLE = "풀이 약이 되기까지"
 SUB = "세계 허브의 과학사 (가제)"
-MODE = sys.argv[1] if len(sys.argv) > 1 else "both"
+MODE = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("--") else "both"
 OPT = "--noopt" not in sys.argv
 
 CSS = """
