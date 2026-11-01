@@ -162,22 +162,72 @@ if old.exists():
     c.commit(); c.execute("detach database o")
 c.commit(); c.execute("vacuum")
 
+
+# ---------- 논문 말뭉치·서지 조회·파싱 결과 (2판·수정용) ----------
+c.executescript("""
+create table corpus(id text primary key, doi text, title text, year int, journal text, authors text, cited int, abstract text, tags text, relevant int, used_in_book int, used_chapters text);
+create table refs_link(ref_id int primary key, chapter_no int, doi text, corpus_id text, in_corpus int, in_corpus_relevant int, crossref_json text);
+create table crossref_meta(doi text primary key, json text);
+create table parsed(chapter_no int, kind text, name text, content text, primary key(chapter_no, kind, name));
+""")
+normd = lambda d: re.sub(r"^https?://(dx\.)?doi\.org/", "", (d or "").strip().lower())
+ref_chs = {}
+for rid, chno, doi in c.execute("select id, chapter_no, doi from refs"):
+    if doi: ref_chs.setdefault(normd(doi), set()).add(chno)
+rel_ids = set()
+rp = ROOT / "corpus" / "herbcorpus-rel-v1.jsonl"
+if rp.exists():
+    for l in open(rp, encoding="utf-8"): rel_ids.add(json.loads(l)["id"])
+by_doi = {}
+ap = ROOT / "corpus" / "herbcorpus-v1.jsonl"
+if ap.exists():
+    batch = []
+    for l in open(ap, encoding="utf-8"):
+        d = json.loads(l); nd = normd(d.get("doi")); used = sorted(ref_chs.get(nd, [])) if nd else []
+        by_doi[nd] = d["id"]
+        batch.append((d["id"], nd, d.get("title"), d.get("year"), d.get("journal"), json.dumps(d.get("authors"), ensure_ascii=False), d.get("cited"), d.get("abstract"), json.dumps(d.get("tags"), ensure_ascii=False), int(d["id"] in rel_ids), int(bool(used)), ",".join(map(str, used))))
+    c.executemany("insert into corpus values(?,?,?,?,?,?,?,?,?,?,?,?)", batch)
+cm = {}
+cp = ROOT / "corpus" / "crossref-meta-v1.jsonl"
+if cp.exists():
+    for l in open(cp, encoding="utf-8"):
+        d = json.loads(l); cm[normd(d["doi"])] = l.strip()
+        c.execute("insert or replace into crossref_meta values(?,?)", (normd(d["doi"]), l.strip()))
+for rid, chno, doi in c.execute("select id, chapter_no, doi from refs").fetchall():
+    nd = normd(doi); cid = by_doi.get(nd) if nd else None
+    c.execute("insert into refs_link values(?,?,?,?,?,?,?)", (rid, chno, nd, cid, int(cid is not None), int(cid in rel_ids) if cid else 0, cm.get(nd)))
+for d in sorted((ROOT / "parsed").glob("*")):
+    code = d.name; chno = int(re.sub(r"\D", "", code)) + (100 if code.startswith("ap") else 0)
+    for f in sorted(d.glob("*")): c.execute("insert or replace into parsed values(?,?,?,?)", (chno, f.suffix[1:], f.name, rd(f)))
+for p in sorted((ROOT / "chapters").glob("verify*.md")): c.execute("insert or replace into docs values(?,?)", (f"chapters/{p.name}", rd(p)))
+for p in sorted((ROOT / "corpus").glob("*.txt")): c.execute("insert or replace into docs values(?,?)", (f"corpus/{p.name}", rd(p)))
+c.commit()
+
 # ---------- 원본 소스 사본 + 해시 ----------
 SRC = OUT / "src"
 for d in ("chapters", "figures", "refs", "tables", "tools", "docs", "cover"):
     if (ROOT / d).exists(): shutil.copytree(ROOT / d, SRC / d)
+(SRC / "parsed").mkdir(exist_ok=True); shutil.copytree(ROOT / "parsed", SRC / "parsed", dirs_exist_ok=True)
+(SRC / "corpus").mkdir(exist_ok=True)
+for f in ("refdois-v1.txt", "crossref-meta-v1.jsonl"):
+    if (ROOT / "corpus" / f).exists(): shutil.copy2(ROOT / "corpus" / f, SRC / "corpus" / f)
 shutil.copy2(ROOT / "book.json", SRC / "book.json")
 corp = ROOT / "corpus" / "herbcorpus-rel-v1.jsonl"
-if corp.exists(): M("corpus_sha256", sha(corp)); M("corpus_file", "corpus/herbcorpus-rel-v1.jsonl (7,182편, 패키지에는 미포함 — 저장소·herb_db에 있음)")
+if corp.exists(): M("corpus_sha256", sha(corp)); M("corpus_file", "corpus/herbcorpus-rel-v1.jsonl (7,182편; 전체 12,155편과 함께 DB의 corpus 표에 모두 들어 있음)")
 c.commit()
 (OUT / "README.txt").write_text(f"""herb2bookdb-{VER} — 《{book['title']}》 {book['subtitle']}
 만든 때 {now} / 저장소 커밋 {git}
 
 폴더 구성
-  herb2bookdb-{VER}.db  SQLite 한 파일. 표: meta parts chapters sections refs figures(PNG 컬러·흑백 포함) tables_ figscripts figdata typeset(CSS·판형·글꼴) scripts docs pagemap(쪽별 지도·아래 빈칸) old_* files
+  herb2bookdb-{VER}.db  SQLite 한 파일. 표: meta parts chapters sections refs figures(PNG 컬러·흑백 포함) tables_ figscripts figdata typeset(CSS·판형·글꼴) scripts docs pagemap(쪽별 지도·아래 빈칸) corpus(수집 논문 12,155편: 제목·초록·저자·태그, relevant=본문 관련 7,182편, used_in_book=본문 인용) refs_link(참고문헌↔논문 연결) crossref_meta(서지 조회 원본) parsed(장별 파싱 결과) old_* files
   pdf/                  컬러판·흑백판 PDF
   src/                  원고·그림 스크립트·표 CSV·빌드 도구 원본 (이대로 python3 tools/build-pdf.py both 로 재조판 가능; 코퍼스 제외)
   SHA256SUMS            전체 파일 해시
+
+2판·수정용 사용
+  논문 말뭉치 꺼내기: sqlite3 herb2bookdb-{VER}.db \"select id,doi,title,year,journal from corpus where relevant=1\"
+  본문에 인용한 논문: select * from corpus where used_in_book=1
+  파싱 결과 복원: parsed 표의 content 를 parsed/chNN/ 파일로 쓰면 됨(src/parsed 에도 파일로 있음)
 
 조회 예
   sqlite3 herb2bookdb-{VER}.db "select no,title,page_start_color,page_end_color from chapters"
