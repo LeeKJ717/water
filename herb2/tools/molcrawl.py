@@ -38,15 +38,22 @@ def abstract(inv):
         for p in ps: pos[p] = w
     return " ".join(pos[k] for k in sorted(pos))
 
+class Quota(Exception): pass
+
 def fetch(q, page, tries=5):
     params = {"search": q, "filter": "type:article,has_abstract:true", "sort": "cited_by_count:desc", "per-page": "100", "page": str(page), "select": SEL}
+    if os.environ.get("OPENALEX_KEY"): params["api_key"] = os.environ["OPENALEX_KEY"]
     url = API + "?" + urllib.parse.urlencode(params)
     for i in range(tries):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "molbook-crawler/1"}), timeout=60) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503, 504): time.sleep(5 * (i + 1)); continue
+            if e.code == 429:
+                ra = int(e.headers.get("Retry-After", "0") or 0)
+                if ra > 600: raise Quota(f"daily limit, reset in {ra}s")
+                time.sleep(5 * (i + 1)); continue
+            if e.code in (500, 502, 503, 504): time.sleep(5 * (i + 1)); continue
             raise
         except Exception:
             time.sleep(3 * (i + 1))
@@ -69,8 +76,11 @@ CREATE TABLE IF NOT EXISTS hits(qid INT, paper_id TEXT, rnk INT, PRIMARY KEY(qid
         rank = 0; n = 0
         raw = open(os.path.join(out, "raw", f"q{qid:03d}.jsonl"), "w", encoding="utf-8")
         for p in range(1, pages + 1):
-            d = fetch(q, p)
-            if not d or not d.get("results"): break
+            try: d = fetch(q, p)
+            except Quota as e:
+                raw.close(); db.commit(); print("STOP", e, flush=True); sys.exit(2)
+            if d is None: raw.close(); print("FAIL", qid, flush=True); sys.exit(3)
+            if not d.get("results"): break
             for w in d["results"]:
                 rank += 1; raw.write(json.dumps(w, ensure_ascii=False) + "\n")
                 loc = (w.get("primary_location") or {}).get("source") or {}
