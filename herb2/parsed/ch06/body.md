@@ -36,7 +36,7 @@
 
 1763년 영국의 성직자 에드워드 스톤(Edward Stone)이 왕립학회에 편지를 보냈다. 흰 버드나무 껍질 가루가 간헐열, 곧 학질(ague) 환자를 낫게 한다는 내용이었다. 스톤은 1758년에 이 껍질의 맛을 보았고, 이후 5년 동안 학질 환자 50명가량을 치료했다고 한다(Wikipedia contributors, n.d.-a).
 
-이 이야기는 이 장의 첫 번째 이정표이다. 한 성직자의 관찰이 약초의 약효 후보를 만들었고, 그다음 단계는 화학자들의 몫이었다. 1828년 요한 뷔흐너(Johann Buchner)가 버드나무 껍질에서 비교적 순수한 살리신(salicin) 결정을 얻었고, 1829년 피에르 조제프 르루(Pierre-Joseph Leroux)가 다른 추출법을 개발했다. 1838년에는 라파엘레 피리아(Raffaele Piria)가 살리신에서 더 강한 산 형태를 얻어 살리실산(salicylic acid)이라 불렀다. 그리고 1897년 바이엘(Bayer)의 펠릭스 호프만(Felix Hoffmann)이 살리실산을 아세트산 무수물과 반응시켜 아세틸살리실산(acetylsalicylic acid)을 합성했다(Wikipedia contributors, n.d.-a).
+이 이야기는 이 장의 첫 번째 이정표이다. 한 성직자의 관찰이 약초의 약효 후보를 만들었고, 그다음 단계는 화학자들의 몫이었다. 1828년 요한 뷔흐너(Johann Buchner)가 버드나무 껍질에서 비교적 순수한 살리신(salicin) 결정을 얻었고, 1829년경(문헌에 따라 1830년) 피에르 조제프 르루(Pierre-Joseph Leroux)가 다른 추출법을 개발했다. 1838년에는 라파엘레 피리아(Raffaele Piria)가 살리신에서 더 강한 산 형태를 얻어 살리실산(salicylic acid)이라 불렀다. 그리고 1897년 바이엘(Bayer)의 펠릭스 호프만(Felix Hoffmann)이 살리실산을 아세트산 무수물과 반응시켜 아세틸살리실산(acetylsalicylic acid)을 합성했다(Wikipedia contributors, n.d.-a).
 
 <figure class="fig">
 <img src="../figures/ch06/그림6-2.png" alt="버드나무에서 아스피린까지"/>
