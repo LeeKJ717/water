@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1100" fill="#fff"/>
+<line x1="900" y1="30" x2="900" y2="720" stroke="#999" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="450" y="45" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:27px;font-weight:700" fill="#111">① TLR4에서 NF-κB까지</text>
+<rect x="30" y="80" width="380" height="66" rx="12" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="220" y="122" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">LPS · HMGB1</text>
+<path d="M220,150 L220,181" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="30" y="185" width="380" height="66" rx="12" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="220" y="227" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">TLR4 / MD-2</text>
+<path d="M220,255 L220,286" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="30" y="290" width="380" height="66" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="220" y="332" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">MyD88</text>
+<path d="M220,360 L220,391" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="30" y="395" width="380" height="66" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="220" y="437" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">IKKβ → IκBα 인산화·분해</text>
+<path d="M220,465 L220,496" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="30" y="500" width="380" height="66" rx="12" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="220" y="542" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">NF-κB(p65) 핵으로 이동</text>
+<path d="M220,570 L220,601" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="30" y="605" width="380" height="66" rx="12" fill="#ffffff" stroke="#555" stroke-width="3"/>
+<text x="220" y="647" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">TNF · IL-6 · IL-8 · COX-2 전사</text>
+<text x="650" y="110" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:700" fill="#111">감초 글리시리진: HMGB1 억제제로 쓰인다</text>
+<text x="650" y="136" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:400" fill="#111">(Paudel 외, 2020)</text>
+<text x="650" y="215" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:700" fill="#111">황금 바이칼레인: MD-2 주머니에 결합,</text>
+<text x="650" y="241" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:400" fill="#111">LPS가 만드는 MD-2/TLR4 복합체 억제 (Luo 외, 2017)</text>
+<text x="650" y="425" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:700" fill="#111">생강 D10G: IKKβ의 Cys179와 상호작용</text>
+<text x="650" y="451" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:400" fill="#111">(Lee 외, 2012; 세포·효소 수준)</text>
+<text x="650" y="530" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:700" fill="#111">뇌공등 트립톨라이드: DNA 결합은 그대로,</text>
+<text x="650" y="556" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:400" fill="#111">전사 활성화를 억제 (Qiu 외, 1999; Zhao 외, 2000)</text>
+<text x="650" y="635" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:700" fill="#111">같은 경로 위에서도 성분마다 닿는 지점이 다르다</text>
+<text x="650" y="661" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:400" fill="#111">(위 네 곳은 서로 다른 보고이다)</text>
+<text x="1350" y="45" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:27px;font-weight:700" fill="#111">② 인플라마좀과 STAT3</text>
+<rect x="930" y="80" width="400" height="66" rx="12" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="1130" y="122" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">신호 1: NF-κB → pro-IL-1β·NLRP3 발현</text>
+<path d="M1130,150 L1130,181" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="930" y="185" width="400" height="66" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1130" y="227" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">신호 2: NLRP3 + NEK7 조립</text>
+<path d="M1130,255 L1130,286" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="930" y="290" width="400" height="66" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1130" y="332" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">카스파아제-1 활성</text>
+<path d="M1130,360 L1130,391" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="930" y="395" width="400" height="66" rx="12" fill="#ffffff" stroke="#555" stroke-width="3"/>
+<text x="1130" y="437" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">IL-1β 성숙 · GSDMD 절단</text>
+<path d="M1130,465 L1130,496" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="930" y="500" width="400" height="66" rx="12" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="1130" y="542" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">IL-6 → JAK2 → STAT3</text>
+<text x="1560" y="110" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:700" fill="#111">Luo 외(2017): 바이칼레인이 NLRP3 활성과</text>
+<text x="1560" y="134" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">IL-1β 발현도 줄였다 (생쥐 장염 모델)</text>
+<text x="1560" y="215" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:700" fill="#111">오리도닌: NLRP3 Cys279에 공유결합, NEK7 상호작용 차단</text>
+<text x="1560" y="239" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">(He 외, 2018; 허브 성분의 예)</text>
+<text x="1560" y="320" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:700" fill="#111">파르테놀리드: 카스파아제-1 단백분해 활성을 직접 억제</text>
+<text x="1560" y="344" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">(Juliana 외, 2010)</text>
+<text x="1560" y="425" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:700" fill="#111">GSDMD 절단형이 세포사(pyroptosis)와 IL-1β 분비에 필요</text>
+<text x="1560" y="449" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">(He 외, 2015)</text>
+<text x="1560" y="530" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:700" fill="#111">보스웰리아 AKBA: SHP-1을 늘려 STAT3 탈인산화</text>
+<text x="1560" y="554" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">(Kunnumakkara 외, 2009; 다발골수종 세포)</text>
+<line x1="30" y1="735" x2="1770" y2="735" stroke="#555" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="900" y="775" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">③ 사람에서 잰 결과와 독성</text>
+<rect x="40" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="240" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">황금 바이칼린</text>
+<text x="240" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">관상동맥질환+류마티스 374명</text>
+<text x="240" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">500 mg, 12주, 위약 대조 (Hang 외, 2018)</text>
+<rect x="480" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="680" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">뇌공등 추출물</text>
+<text x="680" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">당뇨병성 신증 65명, 6개월</text>
+<text x="680" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">발사르탄과 비교 (Ge 외, 2013)</text>
+<rect x="920" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1120" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">강황+보스웰릭산 혼합</text>
+<text x="1120" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">골관절염 201명, 12주</text>
+<text x="1120" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">혼합 제제라 단독 효과 분리 불가 (Haroyan 외, 2018)</text>
+<rect x="1360" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1560" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">트립톨라이드 독성</text>
+<text x="1560" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">동물·세포: 간독성 보고 다수</text>
+<text x="1560" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:15px;font-weight:400" fill="#111">LPS·TNF-α 감수성 (Yuan 외, 2020)</text>
+<rect x="60" y="985" width="1680" height="90" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="900" y="1027" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">NF-κB를 누르는 성분은 염증을 줄이지만, 같은 경로가 세포의 생존 신호이기도 하다</text>
+<text x="900" y="1060" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">트립톨라이드는 NF-κB 의존 생존 신호(FLIP)를 낮춰 간을 TNF-α에 민감하게 만들었다 (동물, Yuan 외, 2020)</text>
+</svg>
