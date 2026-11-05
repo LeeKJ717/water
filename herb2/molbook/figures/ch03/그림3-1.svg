@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1120" fill="#fff"/>
+<text x="900" y="40" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:28px;font-weight:700" fill="#111">① 먹은 허브 분자를 장내 세균이 다른 분자로 바꾼다</text>
+<text x="180" y="86" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">먹은 분자</text>
+<text x="605" y="86" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">장내 세균의 일</text>
+<text x="1055" y="86" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">바뀐 분자</text>
+<text x="1525" y="86" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">근거에서 읽은 것</text>
+<rect x="30" y="112" width="300" height="150" rx="14" fill="#e8f0fb" stroke="#555" stroke-width="2.5"/>
+<text x="180" y="160" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:30px;font-weight:700" fill="#111">인삼</text>
+<text x="180" y="204" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:400" fill="#111">진세노사이드 Rb1</text>
+<path d="M334,187 L384,187" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="390" y="112" width="430" height="150" rx="14" fill="#ffffff" stroke="#2f6f3f" stroke-width="3"/>
+<text x="605" y="172" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">β-글루코시다아제로 당을 떼어</text>
+<text x="605" y="206" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">냄(Rd 경유)</text>
+<circle cx="470" cy="240" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="540" cy="240" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="610" cy="240" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="680" cy="240" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="750" cy="240" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<path d="M824,187 L874,187" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="880" y="112" width="350" height="150" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1055" y="196" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:29px;font-weight:700" fill="#111">compound K</text>
+<path d="M1234,187 L1284,187" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1290" y="112" width="480" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1530" y="160" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">무균 쥐: 혈장에서 검출 안 됨</text>
+<text x="1530" y="194" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">단일 세균 부착 쥐: 검출됨</text>
+<text x="1530" y="234" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Akao 외, 1998; Bae 외, 2000)</text>
+<rect x="30" y="282" width="300" height="150" rx="14" fill="#eaf5ea" stroke="#555" stroke-width="2.5"/>
+<text x="180" y="330" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:30px;font-weight:700" fill="#111">석류</text>
+<text x="180" y="374" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:400" fill="#111">엘라그산</text>
+<path d="M334,357 L384,357" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="390" y="282" width="430" height="150" rx="14" fill="#ffffff" stroke="#2f6f3f" stroke-width="3"/>
+<text x="605" y="342" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">Gordonibacter 등이 단계적으로</text>
+<text x="605" y="376" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">변환(한 균주로는 미완성)</text>
+<circle cx="470" cy="410" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="540" cy="410" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="610" cy="410" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="680" cy="410" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="750" cy="410" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<path d="M824,357 L874,357" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="880" y="282" width="350" height="150" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1055" y="366" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:29px;font-weight:700" fill="#111">우롤리틴 A</text>
+<path d="M1234,357 L1284,357" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1290" y="282" width="480" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1530" y="330" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">사람마다 생성형이 다르다</text>
+<text x="1530" y="364" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">혈장 포합체 0.2~20 µM</text>
+<text x="1530" y="404" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Tomás-Barberán 외, 2014; Espín 외, 2013)</text>
+<rect x="30" y="452" width="300" height="150" rx="14" fill="#fff3c9" stroke="#555" stroke-width="2.5"/>
+<text x="180" y="500" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:30px;font-weight:700" fill="#111">감초</text>
+<text x="180" y="544" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:400" fill="#111">글리시리진</text>
+<path d="M334,527 L384,527" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="390" y="452" width="430" height="150" rx="14" fill="#ffffff" stroke="#2f6f3f" stroke-width="3"/>
+<text x="605" y="512" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">장내 세균이 가수분해</text>
+<circle cx="470" cy="580" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="540" cy="580" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="610" cy="580" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="680" cy="580" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="750" cy="580" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<path d="M824,527 L874,527" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="880" y="452" width="350" height="150" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1055" y="536" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:29px;font-weight:700" fill="#111">글리시레티닉산</text>
+<path d="M1234,527 L1284,527" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1290" y="452" width="480" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1530" y="500" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">항생제로 세균을 바꾸면</text>
+<text x="1530" y="534" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">혈장 농도가 낮아짐(생쥐)</text>
+<text x="1530" y="574" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Ishida 외, 2021)</text>
+<rect x="30" y="622" width="300" height="150" rx="14" fill="#fde7e7" stroke="#555" stroke-width="2.5"/>
+<text x="180" y="670" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:30px;font-weight:700" fill="#111">센나</text>
+<text x="180" y="714" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:400" fill="#111">센노사이드 A</text>
+<path d="M334,697 L384,697" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="390" y="622" width="430" height="150" rx="14" fill="#ffffff" stroke="#2f6f3f" stroke-width="3"/>
+<text x="605" y="682" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">비피도박테리움의 환원효소</text>
+<text x="605" y="716" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">(nfrA)로 환원</text>
+<circle cx="470" cy="750" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="540" cy="750" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="610" cy="750" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="680" cy="750" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<circle cx="750" cy="750" r="9" fill="#9ccf9c" stroke="#2f6f3f" stroke-width="2"/>
+<path d="M824,697 L874,697" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="880" y="622" width="350" height="150" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1055" y="706" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:29px;font-weight:700" fill="#111">레인안트론</text>
+<path d="M1234,697 L1284,697" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1290" y="622" width="480" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1530" y="670" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">이 변환이 있어야</text>
+<text x="1530" y="704" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">설사 작용이 나타난다</text>
+<text x="1530" y="744" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Xu 외, 2024)</text>
+<line x1="30" y1="800" x2="1770" y2="800" stroke="#555" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="900" y="840" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:28px;font-weight:700" fill="#111">② 세균이 만든 분자가 숙주의 수용체를 켠다</text>
+<rect x="30" y="870" width="400" height="200" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="230" y="915" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">식이섬유 발효 산물</text>
+<text x="230" y="955" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">아세트산 · 프로피온산 ·</text>
+<text x="230" y="990" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">부티르산(단쇄지방산)</text>
+<text x="230" y="1040" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Brown 외, 2003)</text>
+<path d="M434,970 L504,970" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="510" y="870" width="420" height="200" rx="14" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="720" y="915" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">GPR43(FFAR2) · GPR41(FFAR3)</text>
+<text x="720" y="955" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">GPCR. GPR43은 Gq와 Gi/o,</text>
+<text x="720" y="988" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">GPR41은 Gi/o에 연결</text>
+<text x="720" y="1040" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Le Poul 외, 2003)</text>
+<path d="M934,970 L1004,970" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="1010" y="870" width="760" height="200" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1390" y="915" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">대장 L세포: 세포질 Ca²⁺ 상승, GLP-1 분비</text>
+<text x="1390" y="955" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">SCFA 수용체 결손 생쥐는 GLP-1 분비와</text>
+<text x="1390" y="988" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">포도당 내성이 나빠졌다</text>
+<text x="1390" y="1040" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Tolhurst 외, 2011)</text>
+</svg>
