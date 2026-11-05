@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1080" fill="#fff"/>
+<text x="900" y="40" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:28px;font-weight:700" fill="#111">① 세인트존스워트: 수용체를 켜 해독 효소와 배출 펌프를 늘린다</text>
+<ellipse cx="900" cy="200" rx="560" ry="125" fill="#eef3fb" stroke="#1f3f86" stroke-width="3" stroke-dasharray="14 8"/>
+<text x="800" y="128" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#1f3f86">간세포·장 상피세포의 핵</text>
+<polygon points="137.7,216.0 110.0,232.0 82.3,216.0 82.3,184.0 110.0,168.0 137.7,184.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="110" cy="200" r="14.4" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="110" y="150" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">하이퍼포린</text>
+<text x="110" y="262" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">(세인트존스워트)</text>
+<path d="M150,200 L260,200" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="270" y="150" width="300" height="100" rx="14" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="420" y="190" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:25px;font-weight:700" fill="#111">PXR (핵수용체)</text>
+<text x="420" y="226" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">Ki 27 nM (Moore 외, 2000)</text>
+<path d="M574,200 L664,200" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="670" y="150" width="250" height="100" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="795" y="190" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">표적 유전자</text>
+<text x="795" y="226" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">발현 증가</text>
+<path d="M924,175 L1004,150" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<path d="M924,225 L1004,250" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1010" y="105" width="320" height="90" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="1170" y="142" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">CYP3A4 (약물 산화 효소)</text>
+<text x="1170" y="174" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">간·장에서 증가</text>
+<rect x="1010" y="208" width="320" height="90" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="1170" y="245" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">MDR1 / P-당단백질</text>
+<text x="1170" y="277" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">장에서 증가</text>
+<path d="M1334,200 L1424,200" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="1430" y="140" width="340" height="120" rx="14" fill="#fde7e7" stroke="#7a1f1f" stroke-width="3"/>
+<text x="1600" y="186" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">같이 먹은 약의</text>
+<text x="1600" y="222" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">혈중 노출이 줄어든다</text>
+<text x="900" y="372" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">사람에서 잰 약물 노출의 변화</text>
+<rect x="40" y="395" width="400" height="170" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="240" y="445" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">디곡신</text>
+<text x="240" y="493" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">10일 병용 시 AUC 25% 감소</text>
+<text x="240" y="537" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Johne 외, 1999)</text>
+<rect x="480" y="395" width="400" height="170" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="680" y="445" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">이리노테칸</text>
+<text x="680" y="493" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">활성 대사물 SN-38 42% 감소(5명)</text>
+<text x="680" y="537" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Mathijssen 외, 2002)</text>
+<rect x="920" y="395" width="400" height="170" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1120" y="445" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">S-와파린</text>
+<text x="1120" y="493" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">겉보기 청소율 1.29배</text>
+<text x="1120" y="537" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Jiang 외, 2004)</text>
+<rect x="1360" y="395" width="400" height="170" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1560" y="445" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">림프구 P-당단백질</text>
+<text x="1560" y="493" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">발현 4.2배, 배출 기능 증가</text>
+<text x="1560" y="537" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Hennessy 외, 2002)</text>
+<line x1="30" y1="610" x2="1770" y2="610" stroke="#555" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="900" y="655" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:28px;font-weight:700" fill="#111">② 밀크시슬: 효소를 늘리는 것이 아니라 시험관에서 효소를 막는다</text>
+<polygon points="137.7,796.0 110.0,812.0 82.3,796.0 82.3,764.0 110.0,748.0 137.7,764.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="110" cy="780" r="14.4" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="110" y="730" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">실리비닌</text>
+<text x="110" y="842" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">(밀크시슬)</text>
+<line x1="150" y1="780" x2="300" y2="780" stroke="#7a1f1f" stroke-width="6"/><line x1="300" y1="750" x2="300" y2="810" stroke="#7a1f1f" stroke-width="9"/>
+<rect x="320" y="725" width="470" height="110" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="555" y="768" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">CYP3A4 · CYP2C9 활동 억제</text>
+<text x="555" y="806" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">사람 간 마이크로솜, IC50 29~46 µM</text>
+<rect x="850" y="725" width="440" height="110" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1070" y="768" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">치료 용량 혈장 최고 농도</text>
+<text x="1070" y="806" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">약 0.6 µM (담즙 최대 200 µM)</text>
+<rect x="1340" y="725" width="430" height="110" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1555" y="768" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">상호작용을 배제할 수 없다</text>
+<text x="1555" y="806" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">(Beckmann-Knopp 외, 2000)</text>
+<rect x="120" y="900" width="1560" height="130" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="900" y="945" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:25px;font-weight:700" fill="#111">유도(켜서 늘림)와 억제(막음)는 방향이 반대이고, 증거의 무게도 다르다</text>
+<text x="900" y="985" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">세인트존스워트는 수용체 결합, 유전자 발현, 사람의 약물 농도까지 한 줄로 이어진다</text>
+<text x="900" y="1018" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">밀크시슬은 시험관 억제 자료에 머물러 있고, 사람 자료는 이 장에서 읽지 못했다</text>
+</svg>
