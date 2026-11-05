@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1100" fill="#fff"/>
+<line x1="900" y1="30" x2="900" y2="720" stroke="#999" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="450" y="45" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:27px;font-weight:700" fill="#111">① 에이코사노이드 연쇄: 효소가 길을 나눈다</text>
+<rect x="150" y="90" width="600" height="70" rx="10" fill="#eee" stroke="#555" stroke-width="2.5"/>
+<text x="450" y="135" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">막 인지질에서 아라키돈산이 풀려난다 (PLA₂)</text>
+<path d="M450,164 L450,215" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="150" y="220" width="600" height="70" rx="10" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="450" y="265" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">아라키돈산</text>
+<path d="M330,294 L260,350" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<path d="M570,294 L640,350" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="90" y="355" width="330" height="80" rx="12" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="255" y="405" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">COX → 프로스타글란딘</text>
+<rect x="480" y="355" width="330" height="80" rx="12" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="645" y="405" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">LOX → 류코트리엔</text>
+<path d="M255,440 L255,452" fill="none" stroke="#222" stroke-width="3"  marker-end="url(#ah)"/>
+<text x="255" y="525" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">EP 수용체(GPCR)</text>
+<line x1="215" y1="478" x2="295" y2="478" stroke="#7a1f1f" stroke-width="6"/><line x1="255" y1="452" x2="255" y2="504" stroke="#7a1f1f" stroke-width="9"/>
+<text x="255" y="575" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">버드나무 성분: PGE₂ 분비 억제</text>
+<text x="255" y="607" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Antoniadou 외, 2021)</text>
+<text x="255" y="650" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">생강 성분: COX-2 억제 IC50 7.5~32 µM</text>
+<text x="255" y="682" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(COX-1은 억제하지 않음, 2011)</text>
+<text x="645" y="575" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">생강의 LOX 억제는 이 장에서</text>
+<text x="645" y="607" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">계산 연구만 읽음 (Rudrapal 외, 2023)</text>
+<text x="1350" y="45" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:27px;font-weight:700" fill="#111">② 콜린성 시냅스: 분해 효소를 막으면 신호가 길어진다</text>
+<rect x="980" y="100" width="760" height="60" rx="10" fill="#eee" stroke="#555" stroke-width="2.5"/>
+<text x="1360" y="140" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">신경 말단이 아세틸콜린(ACh)을 시냅스 틈으로 낸다</text>
+<path d="M1360,164 L1360,215" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="1060" y="220" width="600" height="70" rx="10" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1360" y="265" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">시냅스 틈의 ACh</text>
+<path d="M1200,294 L1140,350" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<path d="M1520,294 L1580,350" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="980" y="355" width="330" height="80" rx="12" fill="#fde7e7" stroke="#7a1f1f" stroke-width="3"/>
+<text x="1145" y="405" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">AChE가 ACh를 분해</text>
+<rect x="1410" y="355" width="330" height="80" rx="12" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="1575" y="395" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">니코틴·무스카린</text>
+<text x="1575" y="424" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">수용체에 전달</text>
+<line x1="1105" y1="465" x2="1185" y2="465" stroke="#7a1f1f" stroke-width="6"/><line x1="1145" y1="439" x2="1145" y2="491" stroke="#7a1f1f" stroke-width="9"/>
+<polygon points="1171.0,555.0 1145.0,570.0 1119.0,555.0 1119.0,525.0 1145.0,510.0 1171.0,525.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="1145" cy="540" r="13.5" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="1145" y="592" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">갈란타민</text>
+<text x="1145" y="630" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">AChE 활성 부위 바닥에 결합</text>
+<text x="1145" y="658" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Greenblatt 외, 1999)</text>
+<text x="1575" y="505" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">수용체 쪽 작용은 논쟁:</text>
+<text x="1575" y="540" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">1 µM 이하에서 양성 알로스테릭</text>
+<text x="1575" y="570" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">효과 없음 (Kowal 외, 2018)</text>
+<line x1="30" y1="735" x2="1770" y2="735" stroke="#555" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="900" y="775" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">③ 개똥쑥: 효소를 막는 것이 아니라, 헴 철을 만나 활성화되고 단백질을 공격한다</text>
+<polygon points="137.7,906.0 110.0,922.0 82.3,906.0 82.3,874.0 110.0,858.0 137.7,874.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="110" cy="890" r="14.4" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="110" y="838" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">아르테미시닌</text>
+<path d="M150,890 L260,890" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="270" y="840" width="330" height="100" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="435" y="882" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">헴 철(II)이 과산화</text>
+<text x="435" y="914" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">결합을 환원 절단</text>
+<path d="M604,890 L704,890" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="710" y="840" width="330" height="100" rx="14" fill="#fde7e7" stroke="#7a1f1f" stroke-width="3"/>
+<text x="875" y="882" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">탄소 중심 라디칼</text>
+<text x="875" y="914" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">생성</text>
+<path d="M1044,890 L1144,890" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="1150" y="840" width="620" height="100" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="1460" y="882" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">헴과 단백질이 알킬화된다</text>
+<text x="1460" y="914" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">(Robert 외, 2002; Wang 외, 2015)</text>
+<rect x="60" y="980" width="1680" height="90" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="900" y="1022" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">같은 "효소 억제"도 세 방식이다: 활성 부위에 맞물림(갈란타민), 연쇄의 한 효소를 낮춤(COX), 활성화된 뒤 공유 결합(아르테미시닌)</text>
+<text x="900" y="1054" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">표적을 말할 때는 어느 방식인지를 함께 적는다</text>
+</svg>
