@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1000" fill="#fff"/>
+<rect width="1800" height="300" fill="#fbf6ea"/><rect x="0" y="720" width="1800" height="280" fill="#fdeaea"/>
+<text x="20" y="36" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">장 내강(먹은 것이 지나는 곳)</text>
+<text x="20" y="760" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">혈액(몸 안쪽)</text>
+<rect x="100" y="300" width="760" height="420" rx="24" fill="#eaf3ea" stroke="#2f6f3f" stroke-width="3.5"/>
+<rect x="940" y="300" width="760" height="420" rx="24" fill="#eaf3ea" stroke="#2f6f3f" stroke-width="3.5"/>
+<text x="480" y="334" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">상피세포 (세포를 통과하는 길)</text>
+<text x="1320" y="334" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">이웃 상피세포</text>
+<rect x="858" y="296" width="84" height="54" rx="8" fill="#555" stroke="#222" stroke-width="2"/>
+<text x="900" y="266" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">밀착연접</text>
+<text x="900" y="240" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">(ZO-1, occludin)</text>
+<polygon points="326.0,175.0 300.0,190.0 274.0,175.0 274.0,145.0 300.0,130.0 326.0,145.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="300" cy="160" r="13.5" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="300" y="90" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">커큐민 · EGCG</text>
+<text x="316" y="250" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">입에서 내려온 분자</text>
+<path d="M300,200 L300,380" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="130" y="400" width="370" height="140" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="315" y="440" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">대사 효소가 분자를 바꾼다</text>
+<text x="315" y="474" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">글루쿠론산·황산이 붙는 포합</text>
+<text x="315" y="498" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:400" fill="#111">(Shoba 외, 1998; Chow 외, 2001)</text>
+<text x="315" y="524" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:17px;font-weight:700" fill="#7a1f1f">피페린: 포합 억제(Shoba 외, 1998)</text>
+<path d="M315,542 L315,700" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<text x="335" y="650" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#7a1f1f">흡수</text>
+<path d="M700,580 L700,120" fill="none" stroke="#222" stroke-width="4" stroke-dasharray='10 8' marker-end="url(#ah)"/>
+<rect x="560" y="580" width="280" height="116" rx="12" fill="#fde0e0" stroke="#7a1f1f" stroke-width="3"/>
+<text x="700" y="612" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">유출 수송체가</text>
+<text x="700" y="638" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">분자를 내강으로</text>
+<text x="700" y="662" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">되돌려 보낸다(P-gp 등)</text>
+<text x="700" y="688" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:700" fill="#7a1f1f">피페린: 억제(Bhardwaj 외, 2002)</text>
+<path d="M900,354 L900,690" fill="none" stroke="#222" stroke-width="4" stroke-dasharray='10 8' marker-end="url(#ah)"/>
+<text x="1000" y="560" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">세포 사이로 지나는 길</text>
+<text x="1000" y="590" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">작은 수용성 분자가 지난다</text>
+<text x="1000" y="618" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Turner 외, 1997)</text>
+<rect x="1000" y="390" width="640" height="84" rx="12" fill="#eaf0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="1320" y="425" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">MLCK가 미오신 경쇄를 인산화</text>
+<text x="1320" y="455" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">접합부 둘레의 액토미오신 고리가 수축</text>
+<path d="M1000,432 L930,352" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<text x="1320" y="510" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">→ 접합이 벌어져 투과성 변화(Turner 외, 1997; Clayburgh 외, 2004)</text>
+<polygon points="1426.0,175.0 1400.0,190.0 1374.0,175.0 1374.0,145.0 1400.0,130.0 1426.0,145.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="1400" cy="160" r="13.5" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="1400" y="90" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">후추: 피페린</text>
+<text x="1470" y="150" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">대사 효소와 유출 수송체의</text>
+<text x="1470" y="180" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">작용을 억제하는 쪽으로 작용</text>
+<text x="1470" y="208" text-anchor="start" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Bhardwaj 외, 2002)</text>
+<rect x="150" y="800" width="1500" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="900" y="845" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">신호가 시작되기 전에 이미 세 겹의 장벽이 있다: ① 세포 안에서 분자가 바뀐다  ② 유출 수송체가 되돌린다  ③ 세포 사이 길은 좁다</text>
+<text x="900" y="895" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">혈액에 이르는 양이 적으면, 시험관에서 분명한 표적도 몸에서는 만날 수 없다</text>
+<text x="900" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">(커큐민 2 g: 혈청 농도 미검출~매우 낮음, 피페린 20 mg 병용 시 증가: Shoba 외, 1998)</text>
+</svg>
