@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1080" fill="#fff"/>
+<line x1="900" y1="30" x2="900" y2="1040" stroke="#999" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="450" y="50" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:28px;font-weight:700" fill="#111">① 이온채널형: 분자가 문을 직접 연다</text>
+<text x="450" y="92" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">GABA-A 수용체 (발레렌산·카바인)</text>
+<rect x="60" y="330" width="340" height="70" rx="8" fill="#eee" stroke="#555" stroke-width="2.5"/>
+<text x="230" y="372" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">세포막</text>
+<rect x="400" y="300" width="100" height="130" rx="14" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="450" y="358" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">Cl⁻ 채널</text>
+<rect x="500" y="330" width="340" height="70" rx="8" fill="#eee" stroke="#555" stroke-width="2.5"/>
+<polygon points="476.0,205.0 450.0,220.0 424.0,205.0 424.0,175.0 450.0,160.0 476.0,175.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="450" cy="190" r="13.5" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="450" y="140" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">발레렌산 · 카바인</text>
+<path d="M450,226 L450,292" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<text x="560" y="262" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">GABA의 반응을 키운다</text>
+<text x="450" y="470" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">↓ 채널을 지나 Cl⁻이 들어온다</text>
+<rect x="150" y="510" width="600" height="90" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="450" y="548" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">세포 안의 전위가 더 음으로</text>
+<text x="450" y="580" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">과분극 → 신경 흥분이 줄어든다</text>
+<rect x="90" y="650" width="720" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="450" y="692" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">시험관에서 직접 잰다</text>
+<text x="450" y="730" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">전압 고정 전류, 뇌간 신경의 발화율</text>
+<text x="450" y="768" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">(Trauner 외, 2008; Yuan 외, 2004; Chua 외, 2016)</text>
+<text x="1350" y="50" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:28px;font-weight:700" fill="#111">② GPCR형: 분자가 신호를 중계 단백질에 넘긴다</text>
+<text x="1350" y="92" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:400" fill="#111">CB1·CB2 (칸나비노이드), μ-오피오이드 수용체 (모르핀)</text>
+<rect x="960" y="330" width="340" height="70" rx="8" fill="#eee" stroke="#555" stroke-width="2.5"/>
+<rect x="1400" y="330" width="340" height="70" rx="8" fill="#eee" stroke="#555" stroke-width="2.5"/>
+<rect x="1300" y="300" width="100" height="130" rx="14" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="1350" y="358" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">GPCR</text>
+<polygon points="1376.0,205.0 1350.0,220.0 1324.0,205.0 1324.0,175.0 1350.0,160.0 1376.0,175.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="1350" cy="190" r="13.5" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="1350" y="140" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">THC · CBD · 모르핀</text>
+<path d="M1350,226 L1350,292" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<path d="M1350,436 L1350,490" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="1190" y="495" width="320" height="70" rx="14" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1350" y="540" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">G 단백질 (Gi/o)</text>
+<path d="M1300,570 L1190,630" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<path d="M1400,570 L1510,630" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="950" y="635" width="330" height="100" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="1115" y="675" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">아데닐산 고리화효소 억제</text>
+<text x="1115" y="710" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">cAMP 감소</text>
+<rect x="1430" y="635" width="340" height="100" rx="14" fill="#fde7e7" stroke="#7a1f1f" stroke-width="3"/>
+<text x="1600" y="675" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">β-arrestin 결합</text>
+<text x="1600" y="710" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:400" fill="#111">탈감작·내재화</text>
+<rect x="950" y="790" width="820" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1360" y="832" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">같은 수용체라도 분자마다 어느 갈래를 켜는지가 다르다</text>
+<text x="1360" y="872" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">모르핀은 급속 내재화를 일으키지 않았고(Keith 외, 1996)</text>
+<text x="1360" y="906" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">CBD는 CB1에서 음성 알로스테릭 조절자였다(Tham 외, 2018)</text>
+<rect x="60" y="960" width="1680" height="80" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="900" y="1012" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">이온채널은 전류로, GPCR은 2차 전달자와 단백질 결합으로 읽는다. 이 장은 두 읽기 방식을 나눠 쓴다</text>
+</svg>
