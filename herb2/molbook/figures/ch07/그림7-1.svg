@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100"><defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0,1 L18,9 L0,17 z" fill="#222"/></marker></defs><rect width="1800" height="1100" fill="#fff"/>
+<line x1="900" y1="30" x2="900" y2="720" stroke="#999" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="450" y="45" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:27px;font-weight:700" fill="#111">① 에너지가 모자랄 때: AMPK가 켜진다</text>
+<polygon points="134.2,144.0 110.0,158.0 85.8,144.0 85.8,116.0 110.0,102.0 134.2,116.0" fill="#f2a33c" stroke="#7a4a00" stroke-width="3"/><circle cx="110" cy="130" r="12.6" fill="none" stroke="#7a4a00" stroke-width="2.5"/>
+<text x="110" y="82" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">베르베린</text>
+<path d="M145,130 L225,130" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="230" y="90" width="290" height="80" rx="12" fill="#fde7e7" stroke="#7a1f1f" stroke-width="3"/>
+<text x="375" y="125" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">미토콘드리아</text>
+<text x="375" y="154" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">복합체 I 억제</text>
+<path d="M524,130 L594,130" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="600" y="90" width="260" height="80" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="730" y="125" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">ATP↓ · AMP↑</text>
+<text x="730" y="154" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(ADP:ATP 비 상승)</text>
+<path d="M730,174 L730,230" fill="none" stroke="#222" stroke-width="5"  marker-end="url(#ah)"/>
+<rect x="480" y="235" width="380" height="80" rx="14" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="670" y="270" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:25px;font-weight:700" fill="#111">AMPK 활성화</text>
+<text x="670" y="301" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:16px;font-weight:400" fill="#111">베르베린은 LKB1·CaMKKβ 없이도 (Turner 외, 2008)</text>
+<path d="M560,320 L300,380" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<path d="M780,320 L680,380" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="100" y="385" width="360" height="90" rx="12" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="280" y="420" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">ACC 인산화</text>
+<text x="280" y="452" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">지질 합성↓ 지방산 산화↑</text>
+<rect x="500" y="385" width="340" height="90" rx="12" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="670" y="420" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">mTOR·4E-BP1 억제</text>
+<text x="670" y="452" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">번역 감소 (EGCG, 간암 세포)</text>
+<text x="450" y="520" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">계피 추출물: LKB1-AMPK 의존 포도당 흡수 증가</text>
+<text x="450" y="550" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Shen 외, 2014, 지방세포·근육세포)</text>
+<text x="450" y="600" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:700" fill="#111">시험 농도가 초록에 적히지 않은 연구가 많다</text>
+<text x="450" y="635" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">혈중 도달 여부는 별도로 확인해야 한다</text>
+<text x="1350" y="45" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:27px;font-weight:700" fill="#111">② 영양이 넉넉할 때: 인슐린이 성장 쪽을 켠다</text>
+<rect x="1010" y="90" width="340" height="70" rx="12" fill="#e8f0fb" stroke="#1f3f86" stroke-width="3"/>
+<text x="1180" y="135" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">인슐린 → 수용체 → IRS</text>
+<path d="M1180,164 L1180,215" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1010" y="220" width="340" height="70" rx="12" fill="#fff3c9" stroke="#8a6d1d" stroke-width="3"/>
+<text x="1180" y="265" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:23px;font-weight:700" fill="#111">PI3K → Akt</text>
+<path d="M1180,294 L1180,345" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1010" y="350" width="340" height="70" rx="12" fill="#eaf5ea" stroke="#2f6f3f" stroke-width="3"/>
+<text x="1180" y="395" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">mTORC1</text>
+<path d="M1354,385 L1440,385" fill="none" stroke="#222" stroke-width="4"  marker-end="url(#ah)"/>
+<rect x="1445" y="350" width="300" height="70" rx="12" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1595" y="395" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:21px;font-weight:700" fill="#111">단백질 합성·성장</text>
+<text x="1350" y="475" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">AMPK가 켜지면 이 쪽은 낮아진다 (그림 왼쪽 mTOR 억제)</text>
+<text x="1350" y="530" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">베르베린: 인슐린 신호 단백(IRS-1, Akt, p70 S6, ERK)의</text>
+<text x="1350" y="560" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">인산화는 바뀌지 않았고 포도당 흡수는 늘었다</text>
+<text x="1350" y="590" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Yin 외, 2007)</text>
+<text x="1350" y="640" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:19px;font-weight:400" fill="#111">계피산: PI3K 비의존 GLUT4 이동 보고 (Lakshmi 외, 2009)</text>
+<line x1="30" y1="735" x2="1770" y2="735" stroke="#555" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="900" y="775" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:26px;font-weight:700" fill="#111">③ 사람에서 잰 결과</text>
+<rect x="40" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="240" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">베르베린 2형 당뇨</text>
+<text x="240" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">무작위 시험 14편 1,068명</text>
+<text x="240" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">질 낮음, 신중 해석 (Dong 외, 2012)</text>
+<rect x="480" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="680" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">베르베린 지방간</text>
+<text x="680" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">184명, 하루 1.5 g, 16주</text>
+<text x="680" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">혈청 6.99 ng/ml (Yan 외, 2015)</text>
+<rect x="920" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1120" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">계피 2형 당뇨</text>
+<text x="1120" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">HbA1c 감소 보고 2건 (1~2 g)</text>
+<text x="1120" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Crawford, 2009; Akilen 외, 2010)</text>
+<rect x="1360" y="805" width="400" height="150" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="1560" y="850" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:24px;font-weight:700" fill="#111">계피 수용액 6 g/100 mL</text>
+<text x="1560" y="893" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">36명, 식후 혈당 차이 없음</text>
+<text x="1560" y="930" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:18px;font-weight:400" fill="#111">(Rachid 외, 2022)</text>
+<rect x="60" y="985" width="1680" height="90" rx="14" fill="#ffffff" stroke="#555" stroke-width="2.5"/>
+<text x="900" y="1027" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:22px;font-weight:700" fill="#111">세포에서는 스위치가 켜지고, 사람에서는 결과가 엇갈린다. 둘 사이에 혈중 농도라는 다리가 있다</text>
+<text x="900" y="1060" text-anchor="middle" style="font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;font-size:20px;font-weight:400" fill="#111">베르베린의 경구 생체이용률은 흰쥐에서 0.37% (Feng 외, 2021)</text>
+</svg>
